@@ -1,0 +1,8 @@
+.uPdnV{
+  column-gap:5px!important;
+}
+.hovr:hover{
+	background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+	background-color:#1e62d0;
+	color:#ffffff;
+}
