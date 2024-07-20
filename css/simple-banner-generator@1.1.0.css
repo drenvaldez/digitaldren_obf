@@ -1,0 +1,55 @@
+.search-container {
+    /*padding-top: 1.5rem;*/
+    padding-bottom: 1rem;
+    /*margin-bottom: 20px;*/
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0;
+    background-color: white; /* Optional: background color to distinguish the sticky element */
+    z-index: 1000; /* Optional: ensure the sticky element is above other elements */
+}
+
+input[id^="search-input"]{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.gallery,
+.galleryBg{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;    
+}
+
+.gallery img,
+.galleryBg img,{
+    max-width: auto;
+    height: 30%;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 15%;
+}
+.lazy-waiting,.lazy-loading {
+  display: block;
+  visibility: hidden;
+  min-height: 50px;
+}  
+
+.modal-dialog {
+  max-height: 90vh; /* Adjust the value as needed */
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-content {
+  overflow: hidden; /* Prevents the content from overflowing */
+}
+
+.modal-body {
+  overflow-y: auto; /* Enables vertical scrolling */
+  flex-grow: 1;
+}
