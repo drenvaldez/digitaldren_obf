@@ -3,12 +3,14 @@
       {
         "id": 1,
         "offer_name": "bigo",
-        "team_lead": "aldren"
+        "team_lead": "aldren",
+        "lang": "tl"
       },
       {
         "id": 2,
         "offer_name": "yt_ss",
-        "team_lead": "dren"
+        "team_lead": "dren",
+        "lang": "tl"
       }
     ]
   }
