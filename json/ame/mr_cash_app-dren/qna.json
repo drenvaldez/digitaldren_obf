@@ -1,0 +1,179 @@
+{
+    "faqs": [
+        {
+            "id": "1",
+            "question": "What is reward for?",
+            "answer": "<p>A <strong>reward</strong> is a system-generated promo equivalent to the value of the loan amount. It can be used to offset the service fee.</p>"
+        },
+        {
+            "id": "2",
+            "question": "How to delete my account ?",
+            "answer": "<p><strong>Account deletion</strong> request can be submitted directly via relative app productions.&nbsp;&nbsp;</p> <p><strong>NOTE &amp; EMPHASIS</strong>: Account deletion is irreversible and irrevocable. Once it is done, your account can&#39;t be restored.&nbsp;&nbsp;</p> <p><strong>Steps:&nbsp;</strong><br /> 1: Log in Mr. Cash&nbsp;<br /> 2: Click My&raquo;&gt;&gt;Setting&gt;&gt;Account security&gt;&gt;Account deletion&nbsp;&nbsp;<br /> 3: Click to acknowledge Must-know About Account Deletion-Click Confirm to delete&nbsp;&nbsp;</p> <p>For the sake of your account security, try to file a request after 7 days from the date when the following situations happen:&nbsp;&nbsp;<br /> 1: Your account is rejected within latest 7d&nbsp;&nbsp;<br /> 2: You changed registered number within within latest 7d&nbsp;&nbsp;<br /> 3: You filed excessive deletion requests within latest 7d&nbsp;&nbsp;</p> <p>If there is any problem in the account deletion process that you cannot handle or if you have any doubts in the process, you can contact our customer service for assistance. Our customer service team may also contact you through the contact information you have provided regarding the reason for the deletion request.</p>"
+        },
+        {
+            "id": "3",
+            "question": "Error message pops up while selecting reference persons?",
+            "answer": "<p><span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0); font-size: 10pt; font-family: Arial;\">For users who use oppo android mobile phone, you may encounter error messages while selecting reference persons. In the case of this, pls uninstall the app and reinstall the latest version in Google Play store.</span></p>"
+        },
+        {
+            "id": "4",
+            "question": "Why isn't my loan limit raised?",
+            "answer": "<p><span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0); font-size: 10pt; font-family: Arial;\">Loan evaluation takes a lot of factors into consideration, including your loan info, payment history, and others. We advise you to make a payment on time to maintain your credit standing which may entitle you to get a higher loan amount. With risk management in place, we advise you not to do early payment &amp; then repeated borrowing in a short time, which WON&#39;T help you get a higher limit.</span></p>"
+        },
+        {
+            "id": "5",
+            "question": "What to do if my old registered number is no longer active and I have to update the number into a new one?",
+            "answer": "<p>In need of updating your registered number in our system, you are required to provide the below info to the customer service team:&nbsp;&nbsp;<br /> 1: Full name&nbsp;&nbsp;<br /> 2: Old registered number:&nbsp;&nbsp;<br /> 3: Updated number:&nbsp;&nbsp;<br /> 4: Latest photos showing the front and back of your ID&nbsp;&nbsp;<br /> 5: Submit a video of you holding a government-issued ID for the sake of your info security and making a statement regarding your number&nbsp; updating request, including your name, request date, the reason for number updating, and so on.</p>"
+        },
+        {
+            "id": "6",
+            "question": "How come I can't apply for a loan?",
+            "answer": "<p>If your loan got rejected, for relative security concerns, you aren&#39;t eligible to apply for a loan in a short time.&nbsp; For other situations leading to abnormalities in applying for a loan, contact CS and see whether your account has been disabled.</p>"
+        },
+        {
+            "id": "7",
+            "question": "What to do if I encounter a payout error?",
+            "answer": "<p>Once you encounter payout error status in your account, it means that we encountered some problems while processing your disbursement. It may be caused by an invalid bank account, inactive bank account&nbsp; or dormant account, or some issues popping up in the payout channeIs. Contact CS for better guidance.</p>"
+        },
+        {
+            "id": "8",
+            "question": "What to do if I make a payment with the wrong contract number?",
+            "answer": "<p>If you made a payment using the wrong contract number, upload your payment receipt with which we will manually adjust your payment. Submit your detailed info, payment receipt, and payment evidence. Get more detailed guidance by contacting CS.</p>"
+        },
+        {
+            "id": "9",
+            "question": "Can I make payment via Facebook or any other social media accounts?",
+            "answer": "<p><strong>NOTE</strong>: Please make all the payments in the payment channels listed in our app ONLY.&nbsp; Never will we collect any payment from any client via Facebook or any other social media channel.&nbsp; Do take note of this point and be alert to all the scammers. If you encounter anyone asking you to make a payment on social media platforms, please contact our customer service team for validation first. Let&#39;s all SAY NO to all scammers.</p>"
+        },
+        {
+            "id": "10",
+            "question": "How long does the loan evaluation take?",
+            "answer": "<p>For new users, you can get loan evaluation result in 12 hrs on working days after submitting your loan. We may send you texts/ call you to evaluate your loan qualification and info confirmation. For repeated bo rrowers with good credit standing, your loan will be approved and disbursed instantly.</p>"
+        },
+        {
+            "id": "11",
+            "question": "How to check my loan status?",
+            "answer": "<p>Log into your account-click &quot;MY LOAN&#39;- check your loan status</p>"
+        },
+        {
+            "id": "12",
+            "question": "How to apply?",
+            "answer": "<p>We are dedicated to making loans accessible to all common folks. Users aged on/above 18 years old and have source income are qualified to get a loan from us. Apply for a loan in our app via the below procedures:&nbsp;&nbsp;<br /> Fill in your info in our app, including your basic personal info and work info. You are required to upload some documents for our further validation and evaluation.&nbsp;&nbsp;<br /> Choose the loan term and loan amount you need and confirm relative fees and loan info. Upon confirming that you find relative terms and conditions desirable, click the &quot;<strong>APPLY NOW</strong>&quot; button to proceed with your loan application.&nbsp;&nbsp;</p> <p>Once your application is approved, we will notify you in 12 hrs. And the fund will be disbursed into your payout account within 24 hours (excluding weekends and holidays).</p>"
+        },
+        {
+            "id": "13",
+            "question": "Are there any other fees incurred in the application?",
+            "answer": "<p>The total amount to pay is calculated on the basis of daily interest without any other hidden fees. Before submitting your loan, you can read detailed loan info and fees on the order confirmation page.</p>"
+        },
+        {
+            "id": "14",
+            "question": "In case of failing to pay on time, what will be the relative consequences?",
+            "answer": "<p>For any issues occurring in the payment process, pis feel free to contact CS for prompt help. Failing to fulfill your payment obligations is equal to breaching the loan terms and conditions. You may have to bear these below consequences:&nbsp; You may have to pay a late payment fee and late payment fee;&nbsp; Your default of payment may be reported to relative credit institutes; Your personal credit will be affected, leading to the possibility that you won&#39;t get a loan in the future;&nbsp; We may terminate the loan agreement and require you to pay all outstanding balances by informing you in advance so that you can reasonably make relative payment and update your account status; We may file a lawsuit against you, which may result in the fact that you will have to make any properties of yours as collaterals to pay off your debt.</p>"
+        },
+        {
+            "id": "15",
+            "question": "Can I apply for multiple loans simultaneously?",
+            "answer": "<p>Currently, you are eligible to apply for one loan at one time. Apply for another loan is disabled if you have a pending/ongoing loan.</p>"
+        },
+        {
+            "id": "16",
+            "question": "How to apply again?",
+            "answer": "<p>After fully paying your loan, you are entitled to applying again. With all of your previous application info saved in your account, you only have to update relative info(such as the latest income slip) to get a loan faster and easier.</p>"
+        },
+        {
+            "id": "17",
+            "question": "How to cancel my application?",
+            "answer": "<p><strong>NOTE</strong>: Once your loan is approved, the disbursement is processed right away, that is, your loan can&#39;t be cancelled.</p>"
+        },
+        {
+            "id": "18",
+            "question": "What to do if I input a wrong account name in M. Lhuillier or RD Pawnshop payout?",
+            "answer": "<p>For wrong account name in M. Lhuillier or RD Pawnshop payout, contact CS for name amendment.&nbsp;</p>"
+        },
+        {
+            "id": "19",
+            "question": "When should I make a payment?",
+            "answer": "<p>Once you received/claimed your loan, an SMS notification will be sent to your registered phone number. You can monitor your due date by checking the SMS or log into your account in our app and make a payment whenever you want before your due date. By making a full payment on/before the due date, you can enjoy a lot of benefits, such as good credit standing and loan limit.</p>"
+        },
+        {
+            "id": "20",
+            "question": "In case of default, what will be the consequences?",
+            "answer": "<p>For overdue loans, we will charge a penalty fee and possibly a late payment fee once which will be immediately applied on your account before you fully pay your loan. Meanwhile, your credit standing will be downgraded. To avoid such situations, please monitor your due date and make a payment on time.</p>"
+        },
+        {
+            "id": "21",
+            "question": "How can I get my loan via M. Lhuillier or RD Pawnshop?",
+            "answer": "<p>While applying for a loan, you can choose M. Lhuillier or RD Pawnshop as your payout method.&nbsp;&nbsp;<br /> After your loan is approved, you will receive an SMS containing the loan claiming control number to your registered phone number in our app. Bring your valid ID(ID name should be the same as your name info in the application) and claim your loan in any M. Lhuillier/RD Pawnshop branch.</p>"
+        },
+        {
+            "id": "22",
+            "question": "Why my account is not updated after I fully paid my loan?",
+            "answer": "<p>If you have fully paid the loan and yet the payment isn&#39;t reflected in your account, bear with us. It may take us some time to update your account status. If your account isn&#39;t cleared after a long while, upload yo ur payment receipt for validation and contact CS.&nbsp;&nbsp;</p> <p>Proofread your contract number. If you have input the wrong contract number, contact CS who will adjust payment manually for you.&nbsp; Be alert to all scammers. Bear in your mind that you can only make the payment via the payment methods listed in our app and relative payment instructions.</p>"
+        },
+        {
+            "id": "23",
+            "question": "How can I receive my loans? Through which channels?",
+            "answer": "<p>We support these below payout methods, including, but not limited to E-wallet payout, such as Gash;&nbsp; Major bank payout, such as AUB, BPI BDO, PNB;&nbsp; Cash pick-up, such as M. Lhuillier/RD Pawnshop;&nbsp; Others</p>"
+        },
+        {
+            "id": "24",
+            "question": "How to make a repayment?",
+            "answer": "<p>Click &quot;<strong>Repayment</strong>&quot; button in our app and choose your desirable repayment method(such as 7-11, Gash, RD Pawnshop, M. Lhuillier). Complete the repayment by inputting the relative contract number in the payment instructions and bring your valid ID.&nbsp; Note: Save your payment receipt for further payment validation. Keep&nbsp; in your mind that the only payment method we accept is conducted in our app.</p>"
+        },
+        {
+            "id": "25",
+            "question": "Is my account info protected?",
+            "answer": "<p>We implement a strict information protection system to ensure the safety of your loan. Each staff is required to sign an agreement promisi ng to keep all info confidential. Your info is 100% secure and protected by us. Our app is legitimate and licensed. All the info you provided to us will be kept confidential and safe.</p>"
+        },
+        {
+            "id": "26",
+            "question": "What to do if I can't receive an SMS verification code?",
+            "answer": "<p>Due to the instability of the SMS service provider, you may not be able to receive the SMS verification code in time. Please bear with us for 5 minutes. After that, if the situation is the same, click to get a new SMS verification code.&nbsp;&nbsp;<br /> To ensure your account security, the times of your logging in will be Ii mited. You will receive a promo from the system reminding you that you exceed daily log in limit and try again the next day.</p>"
+        },
+        {
+            "id": "27",
+            "question": "What to do if I have to update my personal info and name?",
+            "answer": "<p>If you ever applied for a loan successfully, you can modify your name on your personal info page.&nbsp;&nbsp;<br /> For name amendment after successful disbursement, we require you to send your identity info to our CS email box.&nbsp;&nbsp;<br /> 1: Your full name&nbsp;&nbsp;<br /> 2: Old number:&nbsp;&nbsp;<br /> 3: Updated number:&nbsp;&nbsp;<br /> 4: Latest photos showing the front and back of your ID&nbsp;&nbsp;<br /> 5: Submit a video of you holding a government-issued ID for the sake of your info security and making a statement regarding your number updating request, including your name, request date, the reason for number updating, and so on.</p>"
+        },
+        {
+            "id": "28",
+            "question": "What to do if another account got registered with p my phone number in your app?",
+            "answer": "<p>If your phone number is registered in the name of someone else in our app, sorry that we can&#39;t assign the relative account to you.&nbsp; If you happen to know all the previous owners of your current device, advise them to contact us by sending emails to our CS email box and provide the below info for security checks and validation:</p>"
+        },
+        {
+            "id": "29",
+            "question": "Why is my loan limit downgraded?",
+            "answer": "<p>We will regularly evaluate your credit grade and reevaluate your loan Iimit accordingly.</p>"
+        },
+        {
+            "id": "30",
+            "question": "How to be entitled to a higher loan amount?",
+            "answer": "<p>For new users, your qualification will be evaluated by us. For repeated borrowers, based on your loan history, payment records, and credit st anding, we will comprehensively evaluate your current credit grade which corresponds to the relative loan amount and credit standing. You are encouraged to maintain good credit standing on a long-term basis which can entitle you to get a higher loan amount.</p>"
+        },
+        {
+            "id": "31",
+            "question": "How much can I borrow?",
+            "answer": "<p>For the first-time loan, the loan amount is PHP1.000-2.000. If you make a payment on time, you can loan up to PHP15,000</p>"
+        },
+        {
+            "id": "32",
+            "question": "Can reward be restored in case of loan at \"Closed\" or \"Payout error\" status?",
+            "answer": "<p>The answer is <strong>YES</strong>. After a loan application is submitted, if order status is at&quot;<strong>Closed</strong>&quot;or &quot;<strong>Payout error</strong>&quot; status,it means reward is not applied successfully.</p>"
+        },
+        {
+            "id": "33",
+            "question": "How to Use Reward?",
+            "answer": "<p>As a system-generated promo, a reward is non-withdrawable and non transactional, namely, it is limited to be used in applying for loan only.</p>"
+        },
+        {
+            "id": "34",
+            "question": "How to Get Reward?",
+            "answer": "<p>You can earn a certain amount of reward by referring your friends to register, submit a loan order, and get disbursement successfully from us;&nbsp; Users maintaining good credit will get rewards in their accounts on an irregular basis.</p>"
+        },
+        {
+            "id": "35",
+            "question": "Official Statement",
+            "answer": "<p>To All Respected Users:&nbsp;&nbsp;</p> <p>We here solemnly state that e-Generation Lending Corporation is the copyright owner of Mr. Cash (hereinafter referred to as the &quot;&quot;Platform&#39;/&quot;&quot;APP&quot;&quot;). Recently, it is discovered that other Apps impersonate as our APP and are engaged in illegitimate conducts, which not only violates our legitimate rights and interests, but also poses significant security risks. Meanwhile, it will infringe significantly the legitimate interests of our users and may lead to dramatic losses.&nbsp;&nbsp;</p> <p>In solemn response to the above-mentioned counterfeit and impersonation behavior, we now declare as follows:&nbsp;&nbsp;</p> <p>I.Our company strongly condemns the ones with ultimate motives to be engaged in counterfeiting and impersonation behaviors. We will reserve the right to hold any one involved in the above-mentioned beha viors accountable to the civil and criminal legal responsibility.&nbsp;&nbsp;</p> <p>II. Users are strongly advised to be vigilant and download our APP onl y through officially acknowledged download channels to avoid their personal rights and interests being violated and infringed. If you are in need of our genuine APP, you can download it through the official store platforms.&nbsp;&nbsp;</p> <p>IIl. We encourage all users to report to us about any counterfeit and impersonation behaviors. All the feedbacks and complaints can be channeled via email to contact@mreash.vip.&nbsp;&nbsp;</p> <p>e-Generation Lending Corporation&nbsp;&nbsp;</p> <p>Dec.15th 2023</p>"
+        }
+    ]
+}
