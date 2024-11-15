@@ -17,6 +17,15 @@
         "shuffler_inst": "<li><i class='fas fa-arrow-circle-right'></i><span>I-click ang <strong>RANDOMIZE</strong> na button.</span></li>  <li><i class='fas fa-arrow-circle-right'></i><span>I-click ang <strong>Copy</strong> na button.</span></li>  <li><i class='fas fa-arrow-circle-right'></i><span>I-paste sa iyong post sa Facebook Group at lagyan ng pictures(opsyonal)</span></li>",
         "scrpts_inst": "<li><i class='fas fa-arrow-circle-right'></i><span>I-click ang <strong>COPY ALL</strong> na button.</span></li>  <li><i class='fas fa-arrow-circle-right'></i><span>Pumunta sa gc at hanapin ang latest download link. Kopyahin.</span></li>  <li><i class='fas fa-arrow-circle-right'></i><span>I-paste ng paisa-isa ang mga nakopyang scripts (na naka-save lahat sa clipboard) ayon sa tamang pagkakasunud-sunuod. DONE!</span></li>",  
         "qna_inst": ""
+      },
+      {
+        "id": 3,
+        "offer_name": "reels_bundle",
+        "team_lead": "dren",
+        "lang": "tl"
+        "shuffler_inst": "<li><i class='fas fa-arrow-circle-right'></i><span>I-click ang <strong>RANDOMIZE</strong> na button.</span></li>  <li><i class='fas fa-arrow-circle-right'></i><span>I-click ang <strong>Copy</strong> na button.</span></li>  <li><i class='fas fa-arrow-circle-right'></i><span>I-paste sa iyong post sa Facebook Group o IG/Tiktok/Yt post at mag-share/upload ng reel/vid(opsyonal)</span></li>",
+        "scrpts_inst": "<li><i class='fas fa-arrow-circle-right'></i><span>I-click ang <strong>COPY ALL</strong> na button.</span></li>  <li><i class='fas fa-arrow-circle-right'></i><span>I-paste ng paisa-isa ang mga nakopyang scripts (na naka-save lahat sa clipboard) ayon sa tamang pagkakasunud-sunuod. DONE!</span></li>",  
+        "qna_inst": ""
       }
     ]
   }
