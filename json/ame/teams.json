@@ -25,8 +25,8 @@
         "offer_name": "reels_bundle",
         "team_lead": "dren",
         "lang": "tl",
-        "shuffler_inst": "<ol><li><i class='fas fa-arrow-circle-right'></i><span>I-click ang <strong>RANDOMIZE</strong> na button.</span></li>  <li><i class='fas fa-arrow-circle-right'></i><span>I-click ang <strong>Copy</strong> na button.</span></li>  <li><i class='fas fa-arrow-circle-right'></i><span>I-paste sa iyong post sa Facebook Group o IG/Tiktok/Yt post at mag-share/upload ng reel/vid(opsyonal)</span></li></ol>",
-        "scrpts_inst": "<ol><li><i class='fas fa-arrow-circle-right'></i><span>I-click ang <strong>COPY ALL</strong> na button.</span></li>  <li><i class='fas fa-arrow-circle-right'></i><span>I-paste ng paisa-isa ang mga nakopyang scripts (na naka-save lahat sa clipboard) ayon sa tamang pagkakasunud-sunuod. DONE!</span></li></ol>",  
+        "shuffler_inst": "<ol><li><span>I-click ang <strong>RANDOMIZE</strong> na button.</span></li>  <li><span>I-click ang <strong>Copy</strong> na button.</span></li>  <li><span>I-paste sa iyong post sa Facebook Group o IG/Tiktok/Yt post at mag-share/upload ng reel/vid(opsyonal)</span></li></ol>",
+        "scrpts_inst": "<ol><li><span>I-click ang <strong>COPY ALL</strong> na button.</span></li>  <li><span>I-paste ng paisa-isa ang mga nakopyang scripts (na naka-save lahat sa clipboard) ayon sa tamang pagkakasunud-sunuod. DONE!</span></li></ol>",  
         "qna_inst": "",
         "dllink_graphics": ""
       }
