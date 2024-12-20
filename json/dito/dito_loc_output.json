@@ -1,0 +1,3452 @@
+[
+  {
+    "major_region": "MIN",
+    "sub_regions": [
+      {
+        "name": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+        "provinces": [
+          {
+            "name": "Basilan",
+            "municipalities": [
+              {
+                "name": "Akbar",
+                "barangays": [
+                  {
+                    "name": "Caddayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Linongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lower Bato-bato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mangalut",
+                    "covered": false
+                  },
+                  {
+                    "name": "Manguso",
+                    "covered": false
+                  },
+                  {
+                    "name": "Paguengan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Semut",
+                    "covered": false
+                  },
+                  {
+                    "name": "Upper Bato-bato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Upper Sinangkapan",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Al-Barka",
+                "barangays": [
+                  {
+                    "name": "Apil-apil",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bato-bato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bohe-Piang",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bucalao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cambug",
+                    "covered": false
+                  },
+                  {
+                    "name": "Danapah",
+                    "covered": false
+                  },
+                  {
+                    "name": "Guinanta",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kailih",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kinukutan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kuhon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kuhon Lennuh",
+                    "covered": false
+                  },
+                  {
+                    "name": "Linuan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lookbisaya (Kaulungan Island)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Macalang",
+                    "covered": false
+                  },
+                  {
+                    "name": "Magcawa",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sangkahan (Kaulungan Island)",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Hadji Mohammad Ajul",
+                "barangays": [
+                  {
+                    "name": "Basakan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buton",
+                    "covered": false
+                  },
+                  {
+                    "name": "Candiis",
+                    "covered": false
+                  },
+                  {
+                    "name": "Langil",
+                    "covered": false
+                  },
+                  {
+                    "name": "Langong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Languyan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pintasan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Seronggon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sibago",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sulutan Matangal",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tuburan Proper (Pob.)",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Hadji Muhtamad",
+                "barangays": [
+                  {
+                    "name": "Baluk-baluk",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dasalan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lubukan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Luukbongsod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mananggal",
+                    "covered": false
+                  },
+                  {
+                    "name": "Palahangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Panducan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sangbay Big",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sangbay Small",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tausan",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "CITY OF LAMITAN (Capital)",
+                "barangays": [
+                  {
+                    "name": "Arco",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ba-as",
+                    "covered": false
+                  },
+                  {
+                    "name": "Baimbing",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balagtasan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balobo",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Baungos",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bohebessey",
+                    "covered": false
+                  },
+                  {
+                    "name": "Boheibu",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bohenange",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bohesapa",
+                    "covered": false
+                  },
+                  {
+                    "name": "Boheyakan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Boheyawas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buahan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bulanting",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bulingan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cabobo",
+                    "covered": false
+                  },
+                  {
+                    "name": "Calugusan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Campo Uno",
+                    "covered": false
+                  },
+                  {
+                    "name": "Colonia",
+                    "covered": false
+                  },
+                  {
+                    "name": "Danit-Puntocan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kulay Bato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lebbuh",
+                    "covered": false
+                  },
+                  {
+                    "name": "Limo-ok",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lo-ok",
+                    "covered": false
+                  },
+                  {
+                    "name": "Luksumbang",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumuton",
+                    "covered": false
+                  },
+                  {
+                    "name": "Maganda",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malakas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Maligaya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malinis (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malo-ong Canal",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malo-ong San Jose",
+                    "covered": false
+                  },
+                  {
+                    "name": "Matatag",
+                    "covered": false
+                  },
+                  {
+                    "name": "Matibay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Parangbasak",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sabong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Santa Clara",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sengal",
+                    "covered": false
+                  },
+                  {
+                    "name": "Simbangon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tandong Ahas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tumakid",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ubit",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ulame",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Lantawan",
+                "barangays": [
+                  {
+                    "name": "Atong-atong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bagbagon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Baungis",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bulan-bulan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bulanza",
+                    "covered": false
+                  },
+                  {
+                    "name": "Calayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Calugusan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Canibungan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Landugan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lantawan Proper (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lawi-lawi",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lawila",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lower Ba\u00f1as",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lower Manggas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Luuk-Maluha",
+                    "covered": false
+                  },
+                  {
+                    "name": "Matarling",
+                    "covered": false
+                  },
+                  {
+                    "name": "Matikang",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pamucalin",
+                    "covered": false
+                  },
+                  {
+                    "name": "Paniongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Parian-Baunoh",
+                    "covered": false
+                  },
+                  {
+                    "name": "Suba-an (Pangasahan)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Switch Yakal",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tairan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Upper Ba\u00f1as",
+                    "covered": false
+                  },
+                  {
+                    "name": "Upper Manggas",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Maluso",
+                "barangays": [
+                  {
+                    "name": "Abong-Abong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Batungal",
+                    "covered": false
+                  },
+                  {
+                    "name": "Calang Canas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Fuente Maluso",
+                    "covered": false
+                  },
+                  {
+                    "name": "Guanan North (Zone I)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Guanan South (Zone II)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Limbubong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mahayahay Lower (Zone I)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mahayahay Upper (Zone II)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Muslim Area",
+                    "covered": false
+                  },
+                  {
+                    "name": "Port Holland Zone I Pob. (Upper)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Port Holland Zone II Pob. (Shipyard Main)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Port Holland Zone III Pob. (Samal Village)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Port Holland Zone IV (Lower)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Port Holland Zone V (Shipyard Tabuk)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Taberlongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tamuk",
+                    "covered": false
+                  },
+                  {
+                    "name": "Townsite (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tubigan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Upper Garlayan",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Sumisip",
+                "barangays": [
+                  {
+                    "name": "Bacung",
+                    "covered": false
+                  },
+                  {
+                    "name": "Baiwas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Basak",
+                    "covered": false
+                  },
+                  {
+                    "name": "Benembengan Lower",
+                    "covered": false
+                  },
+                  {
+                    "name": "Benembengan Upper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bohe-languyan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buli-buli",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cabcaban",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cabengbeng Lower",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cabengbeng Upper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ettub-ettub",
+                    "covered": false
+                  },
+                  {
+                    "name": "Guiong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kaum-Air",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kaumpamatsakem",
+                    "covered": false
+                  },
+                  {
+                    "name": "Libug",
+                    "covered": false
+                  },
+                  {
+                    "name": "Limbocandis",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lukketon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Luuk-Bait",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mahatalang",
+                    "covered": false
+                  },
+                  {
+                    "name": "Manaul",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mangal (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Marang",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mebak",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sahaya Bohe Bato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sapah Bulak",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sumisip Central",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tikus",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tongsengal",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tumahubong",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Tabuan-Lasa",
+                "barangays": [
+                  {
+                    "name": "Babag (Babuan Island)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balanting",
+                    "covered": false
+                  },
+                  {
+                    "name": "Boloh-boloh",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bukut-Umus",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kaumpurnah",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lanawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pisak-pisak",
+                    "covered": false
+                  },
+                  {
+                    "name": "Saluping",
+                    "covered": false
+                  },
+                  {
+                    "name": "Suligan (Babuan Island)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sulloh (Tapiantana)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tambulig Buton",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tong-Umus",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Tipo-Tipo",
+                "barangays": [
+                  {
+                    "name": "Badja",
+                    "covered": false
+                  },
+                  {
+                    "name": "Baguindan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Banah",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bangcuang",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bohe-Tambak",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bohebaca",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bohelebung",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lagayas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Limbo-Upas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Silangkum",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tipo-tipo Proper (Pob.)",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Tuburan",
+                "barangays": [
+                  {
+                    "name": "Bohetambis",
+                    "covered": false
+                  },
+                  {
+                    "name": "Calut",
+                    "covered": false
+                  },
+                  {
+                    "name": "Duga-a",
+                    "covered": false
+                  },
+                  {
+                    "name": "Katipunan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lahi-lahi",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lower Sinangkapan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lower Tablas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mahawid",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sinulatan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tablas Usew",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Ungkaya Pukan",
+                "barangays": [
+                  {
+                    "name": "Amaloy",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bohe-Pahuh",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bohe-Suyak",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cabangalan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Danit",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kamamburingan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Matata",
+                    "covered": false
+                  },
+                  {
+                    "name": "Materling",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pipil",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sungkayut",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tongbato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ulitan",
+                    "covered": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lanao del Sur",
+            "municipalities": [
+              {
+                "name": "BACOLOD-KALAWI (BACOLOD GRANDE)",
+                "barangays": [
+                  {
+                    "name": "Ampao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bagoaingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balut",
+                    "covered": false
+                  },
+                  {
+                    "name": "Barua",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buadiawani",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Daramoyod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilabayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dipatuan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gandamato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gurain",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ilian",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lama",
+                    "covered": false
+                  },
+                  {
+                    "name": "Liawao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbaca-Ingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Madanding",
+                    "covered": false
+                  },
+                  {
+                    "name": "Orong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion I",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion II",
+                    "covered": false
+                  },
+                  {
+                    "name": "Raya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Rorowan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sugod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tambo",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tuka I",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tuka II",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Balabagan",
+                "barangays": [
+                  {
+                    "name": "Bagoaingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Banago",
+                    "covered": false
+                  },
+                  {
+                    "name": "Barorao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Batuan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Budas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buenavista",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buisan (Bengabeng)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Calilangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Igabay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ilian",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lalabuan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lorenzo",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lower Itil",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Macao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Magulalung Occidental",
+                    "covered": false
+                  },
+                  {
+                    "name": "Magulalung Oriental",
+                    "covered": false
+                  },
+                  {
+                    "name": "Matampay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Matanog",
+                    "covered": false
+                  },
+                  {
+                    "name": "Molimoc",
+                    "covered": false
+                  },
+                  {
+                    "name": "Narra",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Plasan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion (Balabagan)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Purakan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tataya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Upper Itil",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Bayang",
+                "barangays": [
+                  {
+                    "name": "Bagoaingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bairan (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bandingun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Biabi",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bialaan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong Lilod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong Raya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cadayonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cadingilan Occidental",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cadingilan Oriental",
+                    "covered": false
+                  },
+                  {
+                    "name": "Condaraan Pob. (Condaraan Dimadap)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cormatan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gandamato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ilian",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lalapung Central",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lalapung Proper (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lalapung Upper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Linao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Linuk (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Liong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac Cadayonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Maliwanag",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mapantao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mimbalawag",
+                    "covered": false
+                  },
+                  {
+                    "name": "Palao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pama-an",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pamacotan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Parao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Patong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion (Bayang)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Porotan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Rantian",
+                    "covered": false
+                  },
+                  {
+                    "name": "Raya Cadayonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Rinabor (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Samporna (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sapa",
+                    "covered": false
+                  },
+                  {
+                    "name": "Silid",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sugod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sultan Pandapatan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sumbag (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tagoranao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tangcal",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tangcal Proper (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tomarompong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tomongcal Ligi",
+                    "covered": false
+                  },
+                  {
+                    "name": "Torogan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tuca (Pob.)",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "BALINDONG (WATU)",
+                "barangays": [
+                  {
+                    "name": "Abaga",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bantoga Wato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Barit",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bolinsong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Borakis",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bualan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong Cadapaan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cadapaan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cadayonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dadayag",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dado",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dibarusan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilausan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dimarao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kaluntay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lalabuan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lati",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lilod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Limbo",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac Lalan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac Wato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbayao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Magarang",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malaig",
+                    "covered": false
+                  },
+                  {
+                    "name": "Nusa Lumba Ranao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Padila",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagayawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Paigoay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantaragoo",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion (Balindong)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Raya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Salipongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Talub",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tantua Raya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tomarompong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tuka Bubong",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Binidayan",
+                "barangays": [
+                  {
+                    "name": "Badak",
+                    "covered": false
+                  },
+                  {
+                    "name": "Baguiangun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balut Maito",
+                    "covered": false
+                  },
+                  {
+                    "name": "Basak",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubonga-Ranao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dansalan Dacsula",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kialilidan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Macaguiling",
+                    "covered": false
+                  },
+                  {
+                    "name": "Madaya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Magonaya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Maindig",
+                    "covered": false
+                  },
+                  {
+                    "name": "Masolun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Olama",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagalamatan (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Picalilangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Picotaan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion",
+                    "covered": false
+                  },
+                  {
+                    "name": "Soldaroro",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tambac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Timbangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tuca",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "BUADIPOSO-BUNTONG",
+                "barangays": [
+                  {
+                    "name": "Bacolod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bangon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bangon Proper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Boto Ragondingan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buadiposo Lilod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buadiposo Proper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buadiposo Raya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buntong Proper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cadayonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dansalan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Datu Tambara",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dirisan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gata",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kalakala",
+                    "covered": false
+                  },
+                  {
+                    "name": "Katogonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbatan Manacab",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbatan Pataingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lunduban (Ragondingan)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Manacab (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Minanga (Buntong)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Paling",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pualas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ragondingan East",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ragondingan Proper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ragondingan West",
+                    "covered": false
+                  },
+                  {
+                    "name": "Raya Buntong (Buntong East)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sapot",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tangcal",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tarik",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tuka",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Bubong",
+                "barangays": [
+                  {
+                    "name": "Bacolod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bagoaingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bansayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Basingan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Batangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bualan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubonga Didagun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Carigongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dalaon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dibarosan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilabayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dimapatoy",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dimayon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dimayon Proper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Diolangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Guiguikun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Madanding",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malungun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Masorot",
+                    "covered": false
+                  },
+                  {
+                    "name": "Matampay Dimarao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Miabalawag",
+                    "covered": false
+                  },
+                  {
+                    "name": "Montiaan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagayawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Palao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Panalawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pendogoan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion (Bubong)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Polayagan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Punud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ramain Bubong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Rogero",
+                    "covered": false
+                  },
+                  {
+                    "name": "Salipongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sunggod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Taboro",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "AMAI MANABILANG (BUMBARAN)",
+                "barangays": [
+                  {
+                    "name": "Bagumbayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bandara-Ingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Comara",
+                    "covered": false
+                  },
+                  {
+                    "name": "Frankfort",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lambanogan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lico",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mansilano",
+                    "covered": false
+                  },
+                  {
+                    "name": "Natangcopan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagalamatan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagonayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Piagma",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion (Apartfort)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Punud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ranao-Baning",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sagua-an",
+                    "covered": false
+                  },
+                  {
+                    "name": "Salam",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sumugot",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Butig",
+                "barangays": [
+                  {
+                    "name": "Bayabao Poblacion",
+                    "covered": false
+                  },
+                  {
+                    "name": "Butig Proper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cabasaran",
+                    "covered": false
+                  },
+                  {
+                    "name": "Coloyan Tambo",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilimbayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dolangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malungun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poktan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ragayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Raya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Samer",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sandab Madaya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sundig",
+                    "covered": false
+                  },
+                  {
+                    "name": "Timbab",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tiowi",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Calanogas",
+                "barangays": [
+                  {
+                    "name": "Bubonga Ranao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Calalaoan (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Inoma",
+                    "covered": false
+                  },
+                  {
+                    "name": "Inudaran",
+                    "covered": false
+                  },
+                  {
+                    "name": "Luguna",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mimbalawag",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ngingir",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagalongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Panggawalupa",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantaon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Piksan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Punud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tagoranao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Taliboboka",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tambac",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Ganassi",
+                "barangays": [
+                  {
+                    "name": "Bagoaingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balintad",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balintad A",
+                    "covered": false
+                  },
+                  {
+                    "name": "Barit",
+                    "covered": false
+                  },
+                  {
+                    "name": "Barorao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bato Batoray",
+                    "covered": false
+                  },
+                  {
+                    "name": "Baya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Campong a Raya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Campong Sabela",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dapaan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gadongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gui",
+                    "covered": false
+                  },
+                  {
+                    "name": "Linuk",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbacaingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Macabao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Macaguiling",
+                    "covered": false
+                  },
+                  {
+                    "name": "Masolun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagalongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pamalian",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pangadapun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Panggawalupa",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantaon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantaon A",
+                    "covered": false
+                  },
+                  {
+                    "name": "Para-aba",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sekun Matampay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sogod Madaya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tabuan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Taganonok",
+                    "covered": false
+                  },
+                  {
+                    "name": "Taliogon",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Kapai",
+                "barangays": [
+                  {
+                    "name": "Babayog",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cormatan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilabayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilimbayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dimagaling (Dimagalin Proper)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dimunda",
+                    "covered": false
+                  },
+                  {
+                    "name": "Doronan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gadongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kasayanan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kasayanan West",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kibolos",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kining",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lidasan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Macadar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malna Proper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagalongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantaon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Parao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion (Kapai Pro",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Kapatagan",
+                "barangays": [
+                  {
+                    "name": "Bakikis",
+                    "covered": false
+                  },
+                  {
+                    "name": "Barao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bongabong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Daguan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Inudaran",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kabaniakawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kapatagan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lusain",
+                    "covered": false
+                  },
+                  {
+                    "name": "Matimos",
+                    "covered": false
+                  },
+                  {
+                    "name": "Minimao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pinantao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Salaman",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sigayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tabuan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Upper Igabay",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "LUMBA-BAYABAO (MAGUING)",
+                "barangays": [
+                  {
+                    "name": "Bacolod I",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bacolod II",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bantayao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Barit",
+                    "covered": false
+                  },
+                  {
+                    "name": "Baugan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buad Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cabasaran",
+                    "covered": false
+                  },
+                  {
+                    "name": "Calilangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Carandangan-Mipaga",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cormatan Langban",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dialongana",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilindongan-Cadayonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gadongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Galawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gambai",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kasola",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lalangitun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lama",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lindongan Dialongana",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lobo Basara",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac Bacayawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Macaguiling",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mapantao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mapoling",
+                    "covered": false
+                  },
+                  {
+                    "name": "Maribo (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Minaring Diladigan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagayawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Posudaragat",
+                    "covered": false
+                  },
+                  {
+                    "name": "Rumayas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sabala Bantayao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Salaman",
+                    "covered": false
+                  },
+                  {
+                    "name": "Salolodun Berwar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sarigidan Madiar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sunggod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Taluan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tamlang",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tongcopan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Turogan",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "LUMBACA-UNAYAN",
+                "barangays": [
+                  {
+                    "name": "Bangon (Dilausan)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Beta",
+                    "covered": false
+                  },
+                  {
+                    "name": "Calalon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Calipapa",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilausan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dimapaok",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac Dilausan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Oriental Beta",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tringun",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Lumbatan",
+                "barangays": [
+                  {
+                    "name": "Alog",
+                    "covered": false
+                  },
+                  {
+                    "name": "Basayungun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buad",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong Macadar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Budi",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dago-ok",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dalama",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dalipuga",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lalapung",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ligue",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac Bacayawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lunay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Macadar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Madaya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Minanga",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Penaring",
+                    "covered": false
+                  },
+                  {
+                    "name": "Picotaan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion (Lumbatan)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tambac",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Lumbayanague",
+                "barangays": [
+                  {
+                    "name": "Bagoaingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balaigay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bualan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cabuntungan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cadayonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cadingilan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cadingilan A",
+                    "covered": false
+                  },
+                  {
+                    "name": "Casalayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dala (Dalama)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilimbayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Diromoyod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kabasaran (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lamin",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mapantao-Balangas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Miniros",
+                    "covered": false
+                  },
+                  {
+                    "name": "Nanagun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantaon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pitatanglan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poctan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Singcara",
+                    "covered": false
+                  },
+                  {
+                    "name": "Wago",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Madalum",
+                "barangays": [
+                  {
+                    "name": "Abaga",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bacayawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bagoaingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Basak",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cabasaran",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cadayonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dandamun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Delausan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Diampaca",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dibarosan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gadongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Gurain",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kormatan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Liangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Liangan I",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lilitun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Linao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Linuk",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Madaya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Padian Torogan I",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagayawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Paridi-Kalimodan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion",
+                    "covered": false
+                  },
+                  {
+                    "name": "Punud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Racotan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Raya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Riray",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sabanding",
+                    "covered": false
+                  },
+                  {
+                    "name": "Salongabanding",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sogod Kaloy",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sugod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tamporong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tongantongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Udangun",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Madamba",
+                "barangays": [
+                  {
+                    "name": "Balagunun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balintad",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bawang",
+                    "covered": false
+                  },
+                  {
+                    "name": "Biabe",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong Uyaan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cabasaran",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dibarusan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ilian",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lakitan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Liangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Linuk",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbaca Ingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Madamba",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagayonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Palao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pangadapan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantaon",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pantar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Punud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tambo",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tubaran",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tuca",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tulay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Uyaan Proper (Pob.)",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Maguing",
+                "barangays": [
+                  {
+                    "name": "Agagan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balagunun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balawag",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balintao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bato-bato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bolao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Borocot",
+                    "covered": false
+                  },
+                  {
+                    "name": "Borrowa",
+                    "covered": false
+                  },
+                  {
+                    "name": "Botud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buadiangkay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong Bayabao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Camalig",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cambong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilausan (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilimbayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ilalag",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kianodan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lilod Borocot",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lilod Maguing",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac-Dimarao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Madanding",
+                    "covered": false
+                  },
+                  {
+                    "name": "Madaya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Maguing Proper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malungun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malungun Borocot",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malungun Pagalongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagalongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Panayangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pilimoknan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ragayan (Rungayan)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sabala Dilausan",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Malabang",
+                "barangays": [
+                  {
+                    "name": "Agagan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balagunun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balawag",
+                    "covered": false
+                  },
+                  {
+                    "name": "Balintao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bato-bato",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bolao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Borocot",
+                    "covered": false
+                  },
+                  {
+                    "name": "Borrowa",
+                    "covered": false
+                  },
+                  {
+                    "name": "Botud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Buadiangkay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong Bayabao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Camalig",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cambong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilausan (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Dilimbayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ilalag",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kianodan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lilod Borocot",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lilod Maguing",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac-Dimarao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Madanding",
+                    "covered": false
+                  },
+                  {
+                    "name": "Madaya",
+                    "covered": false
+                  },
+                  {
+                    "name": "Maguing Proper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malungun",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malungun Borocot",
+                    "covered": false
+                  },
+                  {
+                    "name": "Malungun Pagalongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagalongan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Panayangan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pilimoknan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pindolonan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ragayan (Rungayan)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Sabala Dilausan",
+                    "covered": false
+                  }
+                ]
+              },
+              {
+                "name": "Marantao",
+                "barangays": [
+                  {
+                    "name": "Bacayawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bacong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Banga-Pantar",
+                    "covered": false
+                  },
+                  {
+                    "name": "Batal-Punud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Bubong Madanding (Bubong)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Camalig (Pob.)",
+                    "covered": false
+                  },
+                  {
+                    "name": "Camalig Bandara Ingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Camalig Bubong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cawayan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cawayan Bacolod",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cawayan Kalaw",
+                    "covered": false
+                  },
+                  {
+                    "name": "Cawayan Linuk",
+                    "covered": false
+                  },
+                  {
+                    "name": "Daanaingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Ilian",
+                    "covered": false
+                  },
+                  {
+                    "name": "Inudaran Campong",
+                    "covered": false
+                  },
+                  {
+                    "name": "Inudaran Loway",
+                    "covered": false
+                  },
+                  {
+                    "name": "Inudaran Lumbac",
+                    "covered": false
+                  },
+                  {
+                    "name": "Kialdan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lubo",
+                    "covered": false
+                  },
+                  {
+                    "name": "Lumbac Kialdan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Mantapoli",
+                    "covered": false
+                  },
+                  {
+                    "name": "Matampay",
+                    "covered": false
+                  },
+                  {
+                    "name": "Maul",
+                    "covered": false
+                  },
+                  {
+                    "name": "Maul Ilian",
+                    "covered": false
+                  },
+                  {
+                    "name": "Maul Lumbaca Ingud",
+                    "covered": false
+                  },
+                  {
+                    "name": "Nataron",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pagalongan Bacayawan",
+                    "covered": false
+                  },
+                  {
+                    "name": "Palao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Pataimas",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poblacion",
+                    "covered": false
+                  },
+                  {
+                    "name": "Poona Marantao",
+                    "covered": false
+                  },
+                  {
+                    "name": "Punud Proper",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tacub",
+                    "covered": false
+                  },
+                  {
+                    "name": "Tuca Kialdan",
+                    "covered": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
