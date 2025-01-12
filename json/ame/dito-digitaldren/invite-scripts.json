@@ -2,88 +2,88 @@
     "faqs": [
       {
  "id": 1,
- "q": "INTRO",
- "a": "<p>UNLI 5G - UNLIMITED DATA</p><p>📶 Unlimited 5G Data (up to 500 Mbps)<br />    📦 Free 5G WiFi 6 na Modem<br />    💰 Promo: ₱745/month for the first 6 months (then ₱1,490/month).</p><p>✔ Earn DITO Rewards Points with each bill payment<br />    ✔ Bonus 30-day Prime Video Subscription</p><p>FIXED PLAN ONLY NO HIDDEN CHARGES<br />    &nbsp;➡️ DITO UNLI 5G 1490 up to 500Mbps</p><p>👉🏻 KABIT MUNA BAGO BAYAD&nbsp;<br />    👉🏻 NO INSTALLATION FEE | ADVANCE PAYMENT ONLY&nbsp;<br />    👉ADVANCE PAYMENT - YUNG IBABAYAD MO AYUN DIN BAYAD MO PARA SA UNANG BUWAN (PWEDENG UMABOT UPTO TWO MONTHS)&nbsp;</p><p>⚡ 1-2 days process (within NCR), 2-7 days (outside NCR)</p><p>Madali lang mag-apply!<br />    1️⃣ I-check muna natin kung available ang DITO 5G sa area mo.<br />    2️⃣ Kapag serviceable,I-secure ang requirements gaya ng valid ID at proof of residency.<br />    3️⃣ Pagkatapos ay magsagot ng application form</p>"
+ "category": "INTRO",
+ "script": "<p>UNLI 5G - UNLIMITED DATA</p><p>📶 Unlimited 5G Data (up to 500 Mbps)<br />    📦 Free 5G WiFi 6 na Modem<br />    💰 Promo: ₱745/month for the first 6 months (then ₱1,490/month).</p><p>✔ Earn DITO Rewards Points with each bill payment<br />    ✔ Bonus 30-day Prime Video Subscription</p><p>FIXED PLAN ONLY NO HIDDEN CHARGES<br />    &nbsp;➡️ DITO UNLI 5G 1490 up to 500Mbps</p><p>👉🏻 KABIT MUNA BAGO BAYAD&nbsp;<br />    👉🏻 NO INSTALLATION FEE | ADVANCE PAYMENT ONLY&nbsp;<br />    👉ADVANCE PAYMENT - YUNG IBABAYAD MO AYUN DIN BAYAD MO PARA SA UNANG BUWAN (PWEDENG UMABOT UPTO TWO MONTHS)&nbsp;</p><p>⚡ 1-2 days process (within NCR), 2-7 days (outside NCR)</p><p>Madali lang mag-apply!<br />    1️⃣ I-check muna natin kung available ang DITO 5G sa area mo.<br />    2️⃣ Kapag serviceable,I-secure ang requirements gaya ng valid ID at proof of residency.<br />    3️⃣ Pagkatapos ay magsagot ng application form</p>"
       },
       {
  "id": 2,
- "q": "RECOMMENDED (OPTIONAL) - LIKE/FOLLOW PAGE",
- "a": "<p>Hi sir/ma&#39;am! Pwede po ba humingi ng small favor? magpapa-like lang po ng page para updated ka na din po sa mga EXCLUSIVE bonus at tips about sa Unli 5G postpaid plan 😉&nbsp;</p><p>Magpo-post din po ako sa page kung pano ka po makakalibre ng internet bill at pwede ka pa kumita ng extra income kapag nag-apply ka sa page ko 🔥💰✔</p><p>Click mo lang po yung link sa baba para I-LIKE po yung page:<br />    https://www.facebook.com/conect.earn</p><p>Thank you in advanced!😉</p>"
+ "category": "RECOMMENDED (OPTIONAL) - LIKE/FOLLOW PAGE",
+ "script": "<p>Hi sir/ma&#39;am! Pwede po ba humingi ng small favor? magpapa-like lang po ng page para updated ka na din po sa mga EXCLUSIVE bonus at tips about sa Unli 5G postpaid plan 😉&nbsp;</p><p>Magpo-post din po ako sa page kung pano ka po makakalibre ng internet bill at pwede ka pa kumita ng extra income kapag nag-apply ka sa page ko 🔥💰✔</p><p>Click mo lang po yung link sa baba para I-LIKE po yung page:<br />    https://www.facebook.com/conect.earn</p><p>Thank you in advanced!😉</p>"
       },      
       {
  "id": 3,
- "q": "STEP #1 - LOCATION CHECK INTRO",
- "a": "<p>Para 𝗺𝗮-𝗰𝗵𝗲𝗰𝗸 kung available ang 𝗗𝗜𝗧𝗢 𝟱𝗚 service sa area mo, paki-provide ang iyong 𝐚𝐝𝐝𝐫𝐞𝐬𝐬</p><p>PROVINCE:<br />    MUNICIPAL/CITY:<br />    BRGY:</p>"
+ "category": "STEP #1 - LOCATION CHECK INTRO",
+ "script": "<p>Para 𝗺𝗮-𝗰𝗵𝗲𝗰𝗸 kung available ang 𝗗𝗜𝗧𝗢 𝟱𝗚 service sa area mo, paki-provide ang iyong 𝐚𝐝𝐝𝐫𝐞𝐬𝐬</p><p>PROVINCE:<br />    MUNICIPAL/CITY:<br />    BRGY:</p>"
       },
       {
  "id": 4,
- "q": "STEP #1.1A - LOCATION CHECK_DITO 5g COVERED",
- "a": "<p>YES, Dito 5g covered ang area niyo ma&#39;am/sir. Kung wala na po kayo ibang tanong ay pwede na po tayo magcheck ng valid ID mo at mag-fill out ng form 😉</p>"
+ "category": "STEP #1.1A - LOCATION CHECK_DITO 5g COVERED",
+ "script": "<p>YES, Dito 5g covered ang area niyo ma&#39;am/sir. Kung wala na po kayo ibang tanong ay pwede na po tayo magcheck ng valid ID mo at mag-fill out ng form 😉</p>"
       },
      {
  "id": 5,
- "q": "STEP #1.1B - LOCATION CHECK_NOT DITO 5g COVERED",
- "a": "<p>THANK YOU FOR YOUR INTEREST sa pag-check ng offer pero hindi pa Dito 5g ang inyong area.</p>"
+ "category": "STEP #1.1B - LOCATION CHECK_NOT DITO 5g COVERED",
+ "script": "<p>THANK YOU FOR YOUR INTEREST sa pag-check ng offer pero hindi pa Dito 5g ang inyong area.</p>"
       },      
       {
  "id": 6,
- "q": "STEP #2.1 - REQUIREMENTS CHECK INTRO",
- "a": "<p>Pakisigurado po Ma&#39;am/Sir na maipasa ang kumpletong documentary requirements na 𝐯𝐚𝐥𝐢𝐝, 𝐦𝐚𝐥𝐢𝐧𝐚𝐰, 𝐧𝐚𝐛𝐚𝐛𝐚𝐬𝐚, 𝐚𝐭 𝐧𝐚𝐤𝐚-𝐩𝐚𝐧𝐠𝐚𝐥𝐚𝐧 𝐧𝐠 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐧𝐭 para maayos naming ma-assess ang iyong application.</p><p>𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒:</p><p>✅ 𝟏 𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐕𝐚𝐥𝐢𝐝 𝐈𝐃 𝐥𝐚𝐧𝐠 (𝘬𝘶𝘯𝘨 𝘱𝘢𝘳𝘦𝘩𝘰 𝘢𝘯𝘨 𝘢𝘥𝘥𝘳𝘦𝘴𝘴 𝘴𝘢 𝘐𝘋 𝘢𝘵 𝘪𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯 𝘢𝘥𝘥𝘳𝘦𝘴𝘴)</p><p>Parehas po ba ang address mo sa ID at ang installation address mo?</p>"
+ "category": "STEP #2.1 - REQUIREMENTS CHECK INTRO",
+ "script": "<p>Pakisigurado po Ma&#39;am/Sir na maipasa ang kumpletong documentary requirements na 𝐯𝐚𝐥𝐢𝐝, 𝐦𝐚𝐥𝐢𝐧𝐚𝐰, 𝐧𝐚𝐛𝐚𝐛𝐚𝐬𝐚, 𝐚𝐭 𝐧𝐚𝐤𝐚-𝐩𝐚𝐧𝐠𝐚𝐥𝐚𝐧 𝐧𝐠 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐧𝐭 para maayos naming ma-assess ang iyong application.</p><p>𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒:</p><p>✅ 𝟏 𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐕𝐚𝐥𝐢𝐝 𝐈𝐃 𝐥𝐚𝐧𝐠 (𝘬𝘶𝘯𝘨 𝘱𝘢𝘳𝘦𝘩𝘰 𝘢𝘯𝘨 𝘢𝘥𝘥𝘳𝘦𝘴𝘴 𝘴𝘢 𝘐𝘋 𝘢𝘵 𝘪𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯 𝘢𝘥𝘥𝘳𝘦𝘴𝘴)</p><p>Parehas po ba ang address mo sa ID at ang installation address mo?</p>"
       },
       {
  "id": 7,
- "q": "STEP #2.2 - KAILANGAN NG POB KUNG",
- "a": "<p>kung:<br />    ➡ WALANG ADDRESS na nakalagay sa ID o;<br />    ➡ HINDI pareho ang address na nasa ID at kung san ka magpapa-install ng WiFi.</p><p>Kailanga magpasa ng Proof of Billing(𝑷𝑶𝑩):<br />    𝘋𝘢𝘱𝘢𝘵 𝘯𝘢𝘬𝘢-𝘱𝘢𝘯𝘨𝘢𝘭𝘢𝘯 𝘴𝘢 𝘮𝘢𝘨 𝘢𝘢𝘱𝘱𝘭𝘺 𝘯𝘨 𝘸𝘪𝘧𝘪 𝘢𝘵 𝘯𝘢𝘬𝘢 𝘢𝘥𝘥𝘳𝘦𝘴𝘴 𝘬𝘶𝘯𝘨 𝘴𝘢𝘯 𝘪𝘬𝘢𝘬𝘢𝘣𝘪𝘵 𝘢𝘯𝘨 𝘸𝘪𝘧𝘪</p><p>✅ Utility bills<br />    ✅ Others: Club membership SOA<br />    ✅ Address-bearing Proof of Identity<br />    ✅ Bank-issued documents</p>"
+ "category": "STEP #2.2 - KAILANGAN NG POB KUNG",
+ "script": "<p>kung:<br />    ➡ WALANG ADDRESS na nakalagay sa ID o;<br />    ➡ HINDI pareho ang address na nasa ID at kung san ka magpapa-install ng WiFi.</p><p>Kailanga magpasa ng Proof of Billing(𝑷𝑶𝑩):<br />    𝘋𝘢𝘱𝘢𝘵 𝘯𝘢𝘬𝘢-𝘱𝘢𝘯𝘨𝘢𝘭𝘢𝘯 𝘴𝘢 𝘮𝘢𝘨 𝘢𝘢𝘱𝘱𝘭𝘺 𝘯𝘨 𝘸𝘪𝘧𝘪 𝘢𝘵 𝘯𝘢𝘬𝘢 𝘢𝘥𝘥𝘳𝘦𝘴𝘴 𝘬𝘶𝘯𝘨 𝘴𝘢𝘯 𝘪𝘬𝘢𝘬𝘢𝘣𝘪𝘵 𝘢𝘯𝘨 𝘸𝘪𝘧𝘪</p><p>✅ Utility bills<br />    ✅ Others: Club membership SOA<br />    ✅ Address-bearing Proof of Identity<br />    ✅ Bank-issued documents</p>"
       },
       {
  "id": 8,
- "q": "STEP #2.3 - POB ALTERNATIVES",
- "a": "<p>👉Kung walang proof of billing..pwede kayong kumuha ng 𝐁𝐫𝐠𝐲 𝐜𝐥𝐞𝐚𝐫𝐚𝐧𝐜𝐞, ilagay sa purpose, &quot;𝗳𝗼𝗿 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻&quot;<br />    𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥: 𝘸𝘢𝘨 𝘬𝘢𝘭𝘪𝘮𝘶𝘵𝘢𝘯𝘨 𝘱𝘪𝘳𝘮𝘢𝘩𝘢𝘯</p><p>👉Pwede rin ang Shopee or Lazada parcel basta naka pangalan sa maga-apply at naka-address sa paglalagyan ng wifi. (𝘬𝘢𝘩𝘪𝘵 𝘴𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵 𝘭𝘢𝘯𝘨 𝘴𝘢 𝘢𝘱𝘱𝘴 𝘯𝘨 𝘥𝘦𝘭𝘪𝘷𝘦𝘳𝘦𝘥 𝘪𝘵𝘦𝘮𝘴)☺️</p><p>✔️ Kailangan latest po yung i-present na parcel receipt not more than 2 months</p><p>✔️ For parcel&nbsp; receipt kailangan naka-indicate at naka-declare ang parcel order completed, Complete name ng Applicant at same as installation address ng papakabitan.</p><p>✔️ Paki-screenshot yung pinaka Order completed/received na ang item. Nandon ang buong pangalan ng applicant, date at ang address na papakabitan na house/unit.</p>"
+ "category": "STEP #2.3 - POB ALTERNATIVES",
+ "script": "<p>👉Kung walang proof of billing..pwede kayong kumuha ng 𝐁𝐫𝐠𝐲 𝐜𝐥𝐞𝐚𝐫𝐚𝐧𝐜𝐞, ilagay sa purpose, &quot;𝗳𝗼𝗿 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻&quot;<br />    𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥: 𝘸𝘢𝘨 𝘬𝘢𝘭𝘪𝘮𝘶𝘵𝘢𝘯𝘨 𝘱𝘪𝘳𝘮𝘢𝘩𝘢𝘯</p><p>👉Pwede rin ang Shopee or Lazada parcel basta naka pangalan sa maga-apply at naka-address sa paglalagyan ng wifi. (𝘬𝘢𝘩𝘪𝘵 𝘴𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵 𝘭𝘢𝘯𝘨 𝘴𝘢 𝘢𝘱𝘱𝘴 𝘯𝘨 𝘥𝘦𝘭𝘪𝘷𝘦𝘳𝘦𝘥 𝘪𝘵𝘦𝘮𝘴)☺️</p><p>✔️ Kailangan latest po yung i-present na parcel receipt not more than 2 months</p><p>✔️ For parcel&nbsp; receipt kailangan naka-indicate at naka-declare ang parcel order completed, Complete name ng Applicant at same as installation address ng papakabitan.</p><p>✔️ Paki-screenshot yung pinaka Order completed/received na ang item. Nandon ang buong pangalan ng applicant, date at ang address na papakabitan na house/unit.</p>"
       },      
       {
  "id": 9,
- "q": "STEP #3.1 - FILL OUT FORM SUBS INFO",
- "a": "<p>(1 of 4) 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄𝐑 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍:<br />    𝘗𝘳𝘦𝘧𝘪𝘹:&nbsp;<br />    *𝘍𝘪𝘳𝘴𝘵 𝘕𝘢𝘮𝘦:&nbsp;<br />    𝘔𝘪𝘥𝘥𝘭𝘦 𝘕𝘢𝘮𝘦:&nbsp;<br />    *𝘓𝘢𝘴𝘵 𝘕𝘢𝘮𝘦:&nbsp;<br />    𝘚𝘶𝘧𝘧𝘪𝘹:&nbsp;<br />    *𝘎𝘦𝘯𝘥𝘦𝘳:&nbsp;<br />    *𝘋𝘢𝘵𝘦 𝘰𝘧 𝘉𝘪𝘳𝘵𝘩 (MM/DD/YYYY):&nbsp;<br />    *𝘊𝘪𝘵𝘪𝘻𝘦𝘯𝘴𝘩𝘪𝘱: Filipino<br />    *𝘔𝘰𝘵𝘩𝘦𝘳&#39;𝘴 𝘔𝘢𝘪𝘥𝘦𝘯 𝘕𝘢𝘮𝘦:<br />    *𝘏𝘰𝘮𝘦 𝘈𝘥𝘥𝘳𝘦𝘴𝘴(COMPLETE):&nbsp;</p>"
+ "category": "STEP #3.1 - FILL OUT FORM SUBS INFO",
+ "script": "<p>(1 of 4) 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄𝐑 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍:<br />    𝘗𝘳𝘦𝘧𝘪𝘹:&nbsp;<br />    *𝘍𝘪𝘳𝘴𝘵 𝘕𝘢𝘮𝘦:&nbsp;<br />    𝘔𝘪𝘥𝘥𝘭𝘦 𝘕𝘢𝘮𝘦:&nbsp;<br />    *𝘓𝘢𝘴𝘵 𝘕𝘢𝘮𝘦:&nbsp;<br />    𝘚𝘶𝘧𝘧𝘪𝘹:&nbsp;<br />    *𝘎𝘦𝘯𝘥𝘦𝘳:&nbsp;<br />    *𝘋𝘢𝘵𝘦 𝘰𝘧 𝘉𝘪𝘳𝘵𝘩 (MM/DD/YYYY):&nbsp;<br />    *𝘊𝘪𝘵𝘪𝘻𝘦𝘯𝘴𝘩𝘪𝘱: Filipino<br />    *𝘔𝘰𝘵𝘩𝘦𝘳&#39;𝘴 𝘔𝘢𝘪𝘥𝘦𝘯 𝘕𝘢𝘮𝘦:<br />    *𝘏𝘰𝘮𝘦 𝘈𝘥𝘥𝘳𝘦𝘴𝘴(COMPLETE):&nbsp;</p>"
       },
       {
  "id": 10,
- "q": "STEP #3.2 - FILL OUT FORM CONTACT INFO",
- "a": "<p>(2 of 4) 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍:<br />    *𝘗𝘳𝘪𝘮𝘢𝘳𝘺 𝘔𝘰𝘣𝘪𝘭𝘦 𝘗𝘩𝘰𝘯𝘦:&nbsp;<br />    𝘈𝘭𝘵𝘦𝘳𝘯𝘢𝘵𝘪𝘷𝘦 𝘔𝘰𝘣𝘪𝘭𝘦 𝘕𝘶𝘮𝘣𝘦𝘳(optional):&nbsp;<br />    *𝘗𝘳𝘪𝘮𝘢𝘳𝘺 𝘌𝘮𝘢𝘪𝘭:&nbsp;<br />    𝘈𝘭𝘵𝘦𝘳𝘯𝘢𝘵𝘪𝘷𝘦 𝘌𝘮𝘢𝘪𝘭(optional):</p>"
+ "category": "STEP #3.2 - FILL OUT FORM CONTACT INFO",
+ "script": "<p>(2 of 4) 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍:<br />    *𝘗𝘳𝘪𝘮𝘢𝘳𝘺 𝘔𝘰𝘣𝘪𝘭𝘦 𝘗𝘩𝘰𝘯𝘦:&nbsp;<br />    𝘈𝘭𝘵𝘦𝘳𝘯𝘢𝘵𝘪𝘷𝘦 𝘔𝘰𝘣𝘪𝘭𝘦 𝘕𝘶𝘮𝘣𝘦𝘳(optional):&nbsp;<br />    *𝘗𝘳𝘪𝘮𝘢𝘳𝘺 𝘌𝘮𝘢𝘪𝘭:&nbsp;<br />    𝘈𝘭𝘵𝘦𝘳𝘯𝘢𝘵𝘪𝘷𝘦 𝘌𝘮𝘢𝘪𝘭(optional):</p>"
       },
       {
  "id": 11,
- "q": "STEP #3.3 - FILL OUT FORM EMPLOYMENT DETAILS",
- "a": "<p>(3 of 4) 𝐄𝐌𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐃𝐄𝐓𝐀𝐈𝐋𝐒:<br />    *𝘌𝘮𝘱𝘭𝘰𝘺𝘦𝘳 / 𝘊𝘰𝘮𝘱𝘢𝘯𝘺:&nbsp;</p><p>*𝘌𝘮𝘱𝘭𝘰𝘺𝘦𝘳 / 𝘊𝘰𝘮𝘱𝘢𝘯𝘺 𝘛𝘺𝘱𝘦: (Choose one: Probationary / Regular / Project-Based / Co-Terminus / Permanent / Others)</p><p>*𝘗𝘰𝘴𝘪𝘵𝘪𝘰𝘯 𝘛𝘺𝘱𝘦: (Choose one: CEO/President / SVP/VP/AVP / Executive/Director / Manager/Asst Manager / Supervisor / Specialist|Staff / Project|Contractual Employee / Consultant / Others)</p><p>*𝘖𝘤𝘤𝘶𝘱𝘢𝘵𝘪𝘰𝘯 𝘛𝘺𝘱𝘦: (Choose one: Employed - Government / Self-Employed|Personal Business / Unemployed / Retired / Student / Housewife / OFW / Others / Employed - Private)</p><p>*𝘑𝘰𝘣 𝘛𝘪𝘵𝘭𝘦:&nbsp;<br />    *𝘌𝘮𝘱𝘭𝘰𝘺𝘦𝘳 / 𝘊𝘰𝘮𝘱𝘢𝘯𝘺 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘕𝘶𝘮𝘣𝘦𝘳:&nbsp;<br />    *𝘌𝘮𝘱𝘭𝘰𝘺𝘦𝘳 / 𝘊𝘰𝘮𝘱𝘢𝘯𝘺 𝘈𝘥𝘥𝘳𝘦𝘴𝘴:&nbsp;</p>"
+ "category": "STEP #3.3 - FILL OUT FORM EMPLOYMENT DETAILS",
+ "script": "<p>(3 of 4) 𝐄𝐌𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐃𝐄𝐓𝐀𝐈𝐋𝐒:<br />    *𝘌𝘮𝘱𝘭𝘰𝘺𝘦𝘳 / 𝘊𝘰𝘮𝘱𝘢𝘯𝘺:&nbsp;</p><p>*𝘌𝘮𝘱𝘭𝘰𝘺𝘦𝘳 / 𝘊𝘰𝘮𝘱𝘢𝘯𝘺 𝘛𝘺𝘱𝘦: (Choose one: Probationary / Regular / Project-Based / Co-Terminus / Permanent / Others)</p><p>*𝘗𝘰𝘴𝘪𝘵𝘪𝘰𝘯 𝘛𝘺𝘱𝘦: (Choose one: CEO/President / SVP/VP/AVP / Executive/Director / Manager/Asst Manager / Supervisor / Specialist|Staff / Project|Contractual Employee / Consultant / Others)</p><p>*𝘖𝘤𝘤𝘶𝘱𝘢𝘵𝘪𝘰𝘯 𝘛𝘺𝘱𝘦: (Choose one: Employed - Government / Self-Employed|Personal Business / Unemployed / Retired / Student / Housewife / OFW / Others / Employed - Private)</p><p>*𝘑𝘰𝘣 𝘛𝘪𝘵𝘭𝘦:&nbsp;<br />    *𝘌𝘮𝘱𝘭𝘰𝘺𝘦𝘳 / 𝘊𝘰𝘮𝘱𝘢𝘯𝘺 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘕𝘶𝘮𝘣𝘦𝘳:&nbsp;<br />    *𝘌𝘮𝘱𝘭𝘰𝘺𝘦𝘳 / 𝘊𝘰𝘮𝘱𝘢𝘯𝘺 𝘈𝘥𝘥𝘳𝘦𝘴𝘴:&nbsp;</p>"
       },
       {
  "id": 12,
- "q": "STEP #3.4A - FILL OUT FORM DOCUMENTS SAME ADDRESS SA ID & INSTALLATION",
- "a": "<p>(4 of 4) 𝐃𝐎𝐂𝐔𝐌𝐄𝐍𝐓𝐀𝐑𝐘 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒:&nbsp;<br />    *𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘐𝘥𝘦𝘯𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯 / 𝘗𝘳𝘪𝘮𝘢𝘳𝘺 𝘐𝘋: (ex: National ID)<br />    *𝘐𝘋 𝘯𝘶𝘮𝘣𝘦𝘳:</p><p>&nbsp;</p><p>𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐈𝐃𝐬 𝐋𝐢𝐬𝐭:<br />    (Choose one: National ID / Integrated Bar of the Philippines ID / Alien Certificate of Registration (ACR) / Unified Multi-purpose ID / GSIS e-Card / Person with Disabilities card / Bureau of Internal Revenue ID / Social Security System ID / Digitized Voter&rsquo;s ID / PRC ID / Driver&rsquo;s License / Others / Postal ID (Digitized) / Tax Identification Number (TIN) - Digitized / Passport)</p>"
+ "category": "STEP #3.4A - FILL OUT FORM DOCUMENTS SAME ADDRESS SA ID & INSTALLATION",
+ "script": "<p>(4 of 4) 𝐃𝐎𝐂𝐔𝐌𝐄𝐍𝐓𝐀𝐑𝐘 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒:&nbsp;<br />    *𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘐𝘥𝘦𝘯𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯 / 𝘗𝘳𝘪𝘮𝘢𝘳𝘺 𝘐𝘋: (ex: National ID)<br />    *𝘐𝘋 𝘯𝘶𝘮𝘣𝘦𝘳:</p><p>&nbsp;</p><p>𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐈𝐃𝐬 𝐋𝐢𝐬𝐭:<br />    (Choose one: National ID / Integrated Bar of the Philippines ID / Alien Certificate of Registration (ACR) / Unified Multi-purpose ID / GSIS e-Card / Person with Disabilities card / Bureau of Internal Revenue ID / Social Security System ID / Digitized Voter&rsquo;s ID / PRC ID / Driver&rsquo;s License / Others / Postal ID (Digitized) / Tax Identification Number (TIN) - Digitized / Passport)</p>"
       },
       {
  "id": 13,
- "q": "STEP #3.4B - FILL OUT FORM DOCUMENTS WALAMG ADDRESS SA ID O MAGKAIBA NG ADDRESS SA ID & INSTALLATION",
- "a": "<p>(4 of 4) 𝐃𝐎𝐂𝐔𝐌𝐄𝐍𝐓𝐀𝐑𝐘 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒:&nbsp;<br />    *𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘐𝘥𝘦𝘯𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯 / 𝘗𝘳𝘪𝘮𝘢𝘳𝘺 𝘐𝘋: (ex: National ID)<br />    *𝘐𝘋 𝘯𝘶𝘮𝘣𝘦𝘳:</p><p>*𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘉𝘪𝘭𝘭𝘪𝘯𝘨: (ex: Brgy clearance)&nbsp;</p><p><br />    𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐈𝐃𝐬 𝐋𝐢𝐬𝐭:<br />    (Choose one: National ID / Integrated Bar of the Philippines ID / Alien Certificate of Registration (ACR) / Unified Multi-purpose ID / GSIS e-Card / Person with Disabilities card / Bureau of Internal Revenue ID / Social Security System ID / Digitized Voter&rsquo;s ID / PRC ID / Driver&rsquo;s License / Others / Postal ID (Digitized) / Tax Identification Number (TIN) - Digitized / Passport)</p><p>𝐏𝐫𝐨𝐨𝐟 𝐨𝐟 𝐁𝐢𝐥𝐥𝐢𝐧𝐠𝐬:<br />    (Choose one: Utility bills / Others: Club membership SOA / Address-bearing Proof of Identity / Bank-issued documents / Brgy clearance / Parcel receipt)</p>"
+ "category": "STEP #3.4B - FILL OUT FORM DOCUMENTS WALAMG ADDRESS SA ID O MAGKAIBA NG ADDRESS SA ID & INSTALLATION",
+ "script": "<p>(4 of 4) 𝐃𝐎𝐂𝐔𝐌𝐄𝐍𝐓𝐀𝐑𝐘 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒:&nbsp;<br />    *𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘐𝘥𝘦𝘯𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯 / 𝘗𝘳𝘪𝘮𝘢𝘳𝘺 𝘐𝘋: (ex: National ID)<br />    *𝘐𝘋 𝘯𝘶𝘮𝘣𝘦𝘳:</p><p>*𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘉𝘪𝘭𝘭𝘪𝘯𝘨: (ex: Brgy clearance)&nbsp;</p><p><br />    𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐈𝐃𝐬 𝐋𝐢𝐬𝐭:<br />    (Choose one: National ID / Integrated Bar of the Philippines ID / Alien Certificate of Registration (ACR) / Unified Multi-purpose ID / GSIS e-Card / Person with Disabilities card / Bureau of Internal Revenue ID / Social Security System ID / Digitized Voter&rsquo;s ID / PRC ID / Driver&rsquo;s License / Others / Postal ID (Digitized) / Tax Identification Number (TIN) - Digitized / Passport)</p><p>𝐏𝐫𝐨𝐨𝐟 𝐨𝐟 𝐁𝐢𝐥𝐥𝐢𝐧𝐠𝐬:<br />    (Choose one: Utility bills / Others: Club membership SOA / Address-bearing Proof of Identity / Bank-issued documents / Brgy clearance / Parcel receipt)</p>"
       },
       {
  "id": 14,
- "q": "STEP #3.4C - FILL OUT FORM SECONDARY IDs ANG AVAILABLE",
- "a": "<p>(4 of 4) 𝐃𝐎𝐂𝐔𝐌𝐄𝐍𝐓𝐀𝐑𝐘 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒:&nbsp;</p><p>𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘐𝘥𝘦𝘯𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯 / 𝘚𝘦𝘤𝘰𝘯𝘥𝘢𝘳𝘺 𝘐𝘋 1: (ex: Company ID)<br />    *𝘐𝘋 𝘯𝘶𝘮𝘣𝘦𝘳:<br />    𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘐𝘥𝘦𝘯𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯 / 𝘚𝘦𝘤𝘰𝘯𝘥𝘢𝘳𝘺 𝘐𝘋 2: (ex: GOCC ID)<br />    *𝘐𝘋 𝘯𝘶𝘮𝘣𝘦𝘳:</p><p>*𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘉𝘪𝘭𝘭𝘪𝘯𝘨: (ex: Brgy clearance)&nbsp;</p><p>&nbsp;</p><p>𝐒𝐞𝐜𝐨𝐧𝐝𝐚𝐫𝐲 𝐈𝐃𝐬 𝐋𝐢𝐬𝐭:<br />    (Choose one: Company ID / GOCC ID / Postal ID (Paper-based card) / Seaman&rsquo;s Book/ OFW ID /&nbsp;<br />    Exclusive Club Membership ID w/pic and copy of SOA / Police Clearance / Firearm license ID / Tax Identification Number Card / School ID (18 &amp; above) - Academic / NCDA ID - PWD IDs / Senior Citizen Card / Business Registration Number)</p><p>𝐏𝐫𝐨𝐨𝐟 𝐨𝐟 𝐁𝐢𝐥𝐥𝐢𝐧𝐠𝐬:<br />    (Choose one: Utility bills / Others: Club membership SOA / Address-bearing Proof of Identity / Bank-issued documents / Brgy clearance / Parcel receipt)</p><p>&nbsp;</p>"
+ "category": "STEP #3.4C - FILL OUT FORM SECONDARY IDs ANG AVAILABLE",
+ "script": "<p>(4 of 4) 𝐃𝐎𝐂𝐔𝐌𝐄𝐍𝐓𝐀𝐑𝐘 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒:&nbsp;</p><p>𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘐𝘥𝘦𝘯𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯 / 𝘚𝘦𝘤𝘰𝘯𝘥𝘢𝘳𝘺 𝘐𝘋 1: (ex: Company ID)<br />    *𝘐𝘋 𝘯𝘶𝘮𝘣𝘦𝘳:<br />    𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘐𝘥𝘦𝘯𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯 / 𝘚𝘦𝘤𝘰𝘯𝘥𝘢𝘳𝘺 𝘐𝘋 2: (ex: GOCC ID)<br />    *𝘐𝘋 𝘯𝘶𝘮𝘣𝘦𝘳:</p><p>*𝘗𝘳𝘰𝘰𝘧 𝘰𝘧 𝘉𝘪𝘭𝘭𝘪𝘯𝘨: (ex: Brgy clearance)&nbsp;</p><p>&nbsp;</p><p>𝐒𝐞𝐜𝐨𝐧𝐝𝐚𝐫𝐲 𝐈𝐃𝐬 𝐋𝐢𝐬𝐭:<br />    (Choose one: Company ID / GOCC ID / Postal ID (Paper-based card) / Seaman&rsquo;s Book/ OFW ID /&nbsp;<br />    Exclusive Club Membership ID w/pic and copy of SOA / Police Clearance / Firearm license ID / Tax Identification Number Card / School ID (18 &amp; above) - Academic / NCDA ID - PWD IDs / Senior Citizen Card / Business Registration Number)</p><p>𝐏𝐫𝐨𝐨𝐟 𝐨𝐟 𝐁𝐢𝐥𝐥𝐢𝐧𝐠𝐬:<br />    (Choose one: Utility bills / Others: Club membership SOA / Address-bearing Proof of Identity / Bank-issued documents / Brgy clearance / Parcel receipt)</p><p>&nbsp;</p>"
       },      
       {
  "id": 15,
- "q": "STEP #4 - VERIFICATION EMAIL & PHONE",
- "a": "<p>For verification process, makakareceive ka ng verification codes via text at email galing kay Dito. Paki-forward po sakin para sa submission ng application mo ma&#39;am/sir.</p>"
+ "category": "STEP #4 - VERIFICATION EMAIL & PHONE",
+ "script": "<p>For verification process, makakareceive ka ng verification codes via text at email galing kay Dito. Paki-forward po sakin para sa submission ng application mo ma&#39;am/sir.</p>"
       },      
       {
  "id": 16,
- "q": "STEP #5 - ASK REFERENCE NUMBER",
- "a": "<p>𝗣𝗮𝗸𝗶𝘀𝗲𝗻𝗱 𝗻𝗮𝗹𝗮𝗻𝗴 𝗽𝗼 𝗱𝗶𝘁𝗼 𝘆𝘂𝗻𝗴 𝗻𝗮𝗿𝗲𝗰𝗶𝘃 𝗺𝗼 𝗻𝗮 𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲 𝗻𝘂𝗺𝗯𝗲𝗿 𝘀𝗮 𝘁𝗲𝘅𝘁 𝗼 𝘀𝗮 𝗲𝗺𝗮𝗶𝗹.. 𝗻𝗮𝗴-𝘀𝘁𝗮𝗿𝘁 𝗽𝗼 𝘀𝗮 𝟴𝟮𝟱𝟬.......</p>"
+ "category": "STEP #5 - ASK REFERENCE NUMBER",
+ "script": "<p>𝗣𝗮𝗸𝗶𝘀𝗲𝗻𝗱 𝗻𝗮𝗹𝗮𝗻𝗴 𝗽𝗼 𝗱𝗶𝘁𝗼 𝘆𝘂𝗻𝗴 𝗻𝗮𝗿𝗲𝗰𝗶𝘃 𝗺𝗼 𝗻𝗮 𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲 𝗻𝘂𝗺𝗯𝗲𝗿 𝘀𝗮 𝘁𝗲𝘅𝘁 𝗼 𝘀𝗮 𝗲𝗺𝗮𝗶𝗹.. 𝗻𝗮𝗴-𝘀𝘁𝗮𝗿𝘁 𝗽𝗼 𝘀𝗮 𝟴𝟮𝟱𝟬.......</p>"
       },      
       {
  "id": 17,
- "q": "STEP #6 - REMINDER AFTER SUBMIT",
- "a": "<p>𝐑𝐄𝐌𝐈𝐍𝐃𝐄𝐑𝐒:<br />    📌 Makakatanggap ka po ng call at message about the installation, mga updates sa schedule at approval within 24-48 hours po.</p><p>📌 Siguraduhin pong active at reachable ang contact number para sa mas maayos na coordination.</p><p>📌 Ang mga lugar po na mahina ang signal ay maaaring magdulot ng delay o cancellation ng installation.</p><p>📌 Libre ang setup, at hindi mo na kailangan ng additional wiring or wall attachments.&nbsp;</p><p>📌 Ang installation ay within 24&ndash;48 hours (within NCR) pagkatapos ma-approve ang application. 2-7 days (outside NCR)</p><p>📌 Sa mismong araw ng installation, magkakaroon ng actual na signal testing para matiyak ang bilis ng connection.&nbsp;</p><p>📌 Kung ang signal strength ay mas mababa sa 100 Mbps, hindi itutuloy ang installation, at wala kang kailangang bayaran.</p>"
+ "category": "STEP #6 - REMINDER AFTER SUBMIT",
+ "script": "<p>𝐑𝐄𝐌𝐈𝐍𝐃𝐄𝐑𝐒:<br />    📌 Makakatanggap ka po ng call at message about the installation, mga updates sa schedule at approval within 24-48 hours po.</p><p>📌 Siguraduhin pong active at reachable ang contact number para sa mas maayos na coordination.</p><p>📌 Ang mga lugar po na mahina ang signal ay maaaring magdulot ng delay o cancellation ng installation.</p><p>📌 Libre ang setup, at hindi mo na kailangan ng additional wiring or wall attachments.&nbsp;</p><p>📌 Ang installation ay within 24&ndash;48 hours (within NCR) pagkatapos ma-approve ang application. 2-7 days (outside NCR)</p><p>📌 Sa mismong araw ng installation, magkakaroon ng actual na signal testing para matiyak ang bilis ng connection.&nbsp;</p><p>📌 Kung ang signal strength ay mas mababa sa 100 Mbps, hindi itutuloy ang installation, at wala kang kailangang bayaran.</p>"
       }
     ]
 }
