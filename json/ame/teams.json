@@ -29,7 +29,16 @@
         "scrpts_inst": "<ol><li><span>I-click ang <strong>COPY ALL</strong> na button.</span></li>  <li><span>I-paste ng paisa-isa ang mga nakopyang scripts (na naka-save lahat sa clipboard) ayon sa tamang pagkakasunud-sunuod. DONE!</span></li></ol>",  
         "qna_inst": "<ol><li><span>Mag-type sa search box ng tanong o keyword(s) sa tanong.</span></li>  <li><span>I-click ang kaugnay na tanong at kopyahin gamit ang <strong>COPY</strong> na button.</span></li>  <li><span>I-reply ang sagot sa customer. DONE!</span></li></ol>",
         "dllink_graphics": ""
-      }
+      },
+      {
+        "id": 4,
+        "offer_name": "dito",
+        "team_lead": "digitaldren",
+        "lang": "en",
+        "shuffler_inst": "<ol><li><span>I-click ang <strong>RANDOMIZE</strong> na button.</span></li>  <li><span>I-click ang <strong>Copy</strong> na button.</span></li>  <li><span>I-paste sa iyong post sa Facebook Group at lagyan ng pictures(opsyonal)</span></li></ol>",        "scrpts_inst": "<ol><li><span>I-click ang <strong>COPY ALL</strong> na button.</span></li>  <li><span>I-paste ng paisa-isa ang mga nakopyang scripts (na naka-save lahat sa clipboard) ayon sa tamang pagkakasunud-sunuod. DONE!</span></li></ol>",  
+        "qna_inst": "<ol><li><span>Mag-type sa search box ng tanong o keyword(s) sa tanong.</span></li>  <li><span>I-click ang kaugnay na tanong at kopyahin gamit ang <strong>COPY</strong> na button.</span></li>  <li><span>I-reply ang sagot sa customer. DONE!</span></li></ol>",
+        "dllink_graphics": "https://photos.app.goo.gl/oqqavYB1FbhyFRjc8"
+      }        
     ]
   }
   
