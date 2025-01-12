@@ -2,228 +2,228 @@
     "faqs": [
       {
         "id": "1",
-        "question": "Paano mag-apply sa 𝐃𝐈𝐓𝐎 𝐔𝐧𝐥𝐢 𝟓𝐆 Postpaid Plan?",
-        "answer": "Madali lang!<br>1️⃣ I-check muna natin kung available ang DITO 5G sa area mo.<br>2️⃣ Kapag serviceable,I-secure ang requirements gaya ng valid ID at proof of residency.<br>3️⃣ Pagkatapos ay magsagot ng application form.<br><br>I-click ang link para sa step-by-step guide <a href='https://m.me/conect.earn?ref=1736267018531' target='_blank'>CLICK ME</a>"
+        "q": "Paano mag-apply sa 𝐃𝐈𝐓𝐎 𝐔𝐧𝐥𝐢 𝟓𝐆 Postpaid Plan?",
+        "a": "Madali lang!<br>1️⃣ I-check muna natin kung available ang DITO 5G sa area mo.<br>2️⃣ Kapag serviceable,I-secure ang requirements gaya ng valid ID at proof of residency.<br>3️⃣ Pagkatapos ay magsagot ng application form.<br><br>I-click ang link para sa step-by-step guide <a href='https://m.me/conect.earn?ref=1736267018531' target='_blank'>CLICK ME</a>"
       },
       {
         "id": "2",
-        "question": "Ano ang kasama sa plan?",
-        "answer": "📶 Unlimited 5G Data (up to 500 Mbps)<br>📦 Free 5G WiFi 6 na Modem<br>💰 Promo: ₱745/month for the first 6 months (then ₱1,490/month)."
+        "q": "Ano ang kasama sa plan?",
+        "a": "📶 Unlimited 5G Data (up to 500 Mbps)<br>📦 Free 5G WiFi 6 na Modem<br>💰 Promo: ₱745/month for the first 6 months (then ₱1,490/month)."
       },
       {
         "id": "3",
-        "question": "Magkano ang initial payment?",
-        "answer": "₱𝟏,𝟒𝟗𝟎 𝐚𝐧𝐠 𝐢𝐧𝐢𝐭𝐢𝐚𝐥 𝐜𝐚𝐬𝐡𝐨𝐮𝐭, which covers advance payment para sa first two months."
+        "q": "Magkano ang initial payment?",
+        "a": "₱𝟏,𝟒𝟗𝟎 𝐚𝐧𝐠 𝐢𝐧𝐢𝐭𝐢𝐚𝐥 𝐜𝐚𝐬𝐡𝐨𝐮𝐭, which covers advance payment para sa first two months."
       },         
       {
         "id": "4",
-        "question": "Available ba ang DITO 5G sa area ko?",
-        "answer": "I-type ang 'location-check' sa chat para malaman kung serviceable ang area mo. Pwede mo din i-click ang link na to: <a href='https://m.me/conect.earn?ref=1736292417945' target='_blank'>CLICK ME</a>"
+        "q": "Available ba ang DITO 5G sa area ko?",
+        "a": "I-type ang 'location-check' sa chat para malaman kung serviceable ang area mo. Pwede mo din i-click ang link na to: <a href='https://m.me/conect.earn?ref=1736292417945' target='_blank'>CLICK ME</a>"
       },
       {
         "id": "5",
-        "question": "Anong oras pwedeng i-schedule ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻?",
-        "answer": "Ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 ay pwede sa pagitan ng <br> 9:00 AM hanggang 5:00 PM, <br> depende din sa availability ng technician."
+        "q": "Anong oras pwedeng i-schedule ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻?",
+        "a": "Ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 ay pwede sa pagitan ng <br> 9:00 AM hanggang 5:00 PM, <br> depende din sa availability ng technician."
       }, 
       {
         "id": "6",
-        "question": "Gaano katagal ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 process?",
-        "answer": "Kapag approved ang application mo, within 24-48 hours na ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻(within NCR).. 2-5 days(outside NCR)"
+        "q": "Gaano katagal ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 process?",
+        "a": "Kapag approved ang application mo, within 24-48 hours na ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻(within NCR).. 2-5 days(outside NCR)"
       },      
       {
         "id": "7",
-        "question": "Ano ang mga kailangan para makapag-apply?",
-        "answer": "Kailangan mo ng:<br>✅ Valid 𝙋𝙧𝙞𝙢𝙖𝙧𝙮 𝙄𝘿 (e.g., Passport, Driver’s License)<br>✅ 𝙥𝙧𝙤𝙤𝙛 𝙤𝙛 𝙗𝙞𝙡𝙡𝙞𝙣𝙜 (kung hindi same address sa ID)<br>✅ Active email at phone number para sa verification."
+        "q": "Ano ang mga kailangan para makapag-apply?",
+        "a": "Kailangan mo ng:<br>✅ Valid 𝙋𝙧𝙞𝙢𝙖𝙧𝙮 𝙄𝘿 (e.g., Passport, Driver’s License)<br>✅ 𝙥𝙧𝙤𝙤𝙛 𝙤𝙛 𝙗𝙞𝙡𝙡𝙞𝙣𝙜 (kung hindi same address sa ID)<br>✅ Active email at phone number para sa verification."
       },
       {
         "id": "8",
-        "question": "Anong document ang pwedeng gamitin bilang 𝙋𝙧𝙞𝙢𝙖𝙧𝙮 𝙄𝘿?",
-        "answer": "𝙋𝙧𝙞𝙢𝙖𝙧𝙮 𝙄𝘿:<br>✅ National ID (𝘩𝘢𝘳𝘢𝘱 𝘢𝘵 𝘭𝘪𝘬𝘰𝘥)<br>✅ Integrated Bar of the Philippines ID<br>✅ Alien Certificate of Registration (ACR)<br>✅ Unified Multi-purpose ID<br>✅ GSIS e-Card<br>✅ Person with Disabilities card<br>✅ Bureau of Internal Revenue ID<br>✅ Social Security System ID<br>✅ Digitized Voter’s ID<br>✅ PRC ID (𝘩𝘢𝘳𝘢𝘱 𝘢𝘵 𝘭𝘪𝘬𝘰𝘥)<br>✅ Driver’s License<br>✅ Others<br>✅ Postal ID (Digitized)<br>✅ Tax Identification Number (TIN) - Digitized<br>✅ Passport"
+        "q": "Anong document ang pwedeng gamitin bilang 𝙋𝙧𝙞𝙢𝙖𝙧𝙮 𝙄𝘿?",
+        "a": "𝙋𝙧𝙞𝙢𝙖𝙧𝙮 𝙄𝘿:<br>✅ National ID (𝘩𝘢𝘳𝘢𝘱 𝘢𝘵 𝘭𝘪𝘬𝘰𝘥)<br>✅ Integrated Bar of the Philippines ID<br>✅ Alien Certificate of Registration (ACR)<br>✅ Unified Multi-purpose ID<br>✅ GSIS e-Card<br>✅ Person with Disabilities card<br>✅ Bureau of Internal Revenue ID<br>✅ Social Security System ID<br>✅ Digitized Voter’s ID<br>✅ PRC ID (𝘩𝘢𝘳𝘢𝘱 𝘢𝘵 𝘭𝘪𝘬𝘰𝘥)<br>✅ Driver’s License<br>✅ Others<br>✅ Postal ID (Digitized)<br>✅ Tax Identification Number (TIN) - Digitized<br>✅ Passport"
       },
       {
         "id": "9",
-        "question": "Anong document ang pwedeng gamitin bilang 𝙨𝙚𝙘𝙤𝙣𝙙𝙖𝙧𝙮 𝙄𝘿?",
-        "answer": "𝙨𝙚𝙘𝙤𝙣𝙙𝙖𝙧𝙮 𝙄𝘿:<br>✔️ Company ID<br>✔️ GOCC ID<br>✔️ Postal ID (Paper-based card)<br>✔️ Seaman’s Book<br>✔️ OFW ID<br>✔️ Exclusive Club Membership ID w/pic and copy of SOA<br>✔️ Police Clearance<br>✔️ Firearm license ID<br>✔️ Tax Identification Number Card<br>✔️ School ID (18 & above) - Academic<br>✔️ NCDA ID - PWD IDs<br>✔️ Senior Citizen Card<br>✔️ Business Registration Number"
+        "q": "Anong document ang pwedeng gamitin bilang 𝙨𝙚𝙘𝙤𝙣𝙙𝙖𝙧𝙮 𝙄𝘿?",
+        "a": "𝙨𝙚𝙘𝙤𝙣𝙙𝙖𝙧𝙮 𝙄𝘿:<br>✔️ Company ID<br>✔️ GOCC ID<br>✔️ Postal ID (Paper-based card)<br>✔️ Seaman’s Book<br>✔️ OFW ID<br>✔️ Exclusive Club Membership ID w/pic and copy of SOA<br>✔️ Police Clearance<br>✔️ Firearm license ID<br>✔️ Tax Identification Number Card<br>✔️ School ID (18 & above) - Academic<br>✔️ NCDA ID - PWD IDs<br>✔️ Senior Citizen Card<br>✔️ Business Registration Number"
       },     
       {
         "id": "10",
-        "question": "Anong document ang pwedeng gamitin bilang 𝙥𝙧𝙤𝙤𝙛 𝙤𝙛 𝙗𝙞𝙡𝙡𝙞𝙣𝙜?",
-        "answer": "PROOF OF BILLING:<br>✅ Utility bills<br>✅ Others: Club membership SOA<br>✅ Address-bearing Proof of Identity<br>✅ Bank-issued documents"
+        "q": "Anong document ang pwedeng gamitin bilang 𝙥𝙧𝙤𝙤𝙛 𝙤𝙛 𝙗𝙞𝙡𝙡𝙞𝙣𝙜?",
+        "a": "PROOF OF BILLING:<br>✅ Utility bills<br>✅ Others: Club membership SOA<br>✅ Address-bearing Proof of Identity<br>✅ Bank-issued documents"
       },                
       {
         "id": "11",
-        "question": "Paano kung wala akong 𝙥𝙧𝙤𝙤𝙛 𝙤𝙛 𝙗𝙞𝙡𝙡𝙞𝙣𝙜 (POB)?",
-        "answer": "Magiging waived ang POB(𝘗𝘳𝘪𝘮𝘢𝘳𝘺 𝘐𝘋 𝘯𝘢𝘭𝘢𝘯𝘨 𝘢𝘯𝘨 𝘪𝘴𝘢-𝘴𝘶𝘣𝘮𝘪𝘵), kapag merong valid 𝙋𝙧𝙞𝙢𝙖𝙧𝙮 𝙄𝘿 si applicant. Same address dapat ang nasa 𝙋𝙧𝙞𝙢𝙖𝙧𝙮 𝙄𝘿 ni applicant at ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 address sa application form.<br><br>Kung walang proof of billing, pwede kayong kumuha ng Brgy clearance, ilagay sa purpose, '𝗳𝗼𝗿 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻'.<br><br>Pwede po kayong mag-submit ng parcel receipt mula sa <br> Lazada, Shopee, o TikTok Shop <br> na hindi lalampas ng isang buwan, basta't naka-pangalan ito sa applicant at tugma sa 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 address."
+        "q": "Paano kung wala akong 𝙥𝙧𝙤𝙤𝙛 𝙤𝙛 𝙗𝙞𝙡𝙡𝙞𝙣𝙜 (POB)?",
+        "a": "Magiging waived ang POB(𝘗𝘳𝘪𝘮𝘢𝘳𝘺 𝘐𝘋 𝘯𝘢𝘭𝘢𝘯𝘨 𝘢𝘯𝘨 𝘪𝘴𝘢-𝘴𝘶𝘣𝘮𝘪𝘵), kapag merong valid 𝙋𝙧𝙞𝙢𝙖𝙧𝙮 𝙄𝘿 si applicant. Same address dapat ang nasa 𝙋𝙧𝙞𝙢𝙖𝙧𝙮 𝙄𝘿 ni applicant at ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 address sa application form.<br><br>Kung walang proof of billing, pwede kayong kumuha ng Brgy clearance, ilagay sa purpose, '𝗳𝗼𝗿 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻'.<br><br>Pwede po kayong mag-submit ng parcel receipt mula sa <br> Lazada, Shopee, o TikTok Shop <br> na hindi lalampas ng isang buwan, basta't naka-pangalan ito sa applicant at tugma sa 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 address."
       },      
       {
         "id": "12",
-        "question": "May limit ba sa number ng devices na pwedeng i-connect?",
-        "answer": "Ang WiFi 6 modem ay pwedeng mag-support ng hanggang <br> 32 devices <br> nang sabay-sabay, pero optimal ito sa 15 devices para sa best performance."
+        "q": "May limit ba sa number ng devices na pwedeng i-connect?",
+        "a": "Ang WiFi 6 modem ay pwedeng mag-support ng hanggang <br> 32 devices <br> nang sabay-sabay, pero optimal ito sa 15 devices para sa best performance."
       },     
       {
         "id": "13",
-        "question": "Ano ang minimum speed during 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 kapag mababa ang signal?",
-        "answer": "Kapag mababa ang signal, ang minimum speed ay dapat <br> 100 Mbps <br> <b>para ituloy ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻</b>."
+        "q": "Ano ang minimum speed during 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 kapag mababa ang signal?",
+        "a": "Kapag mababa ang signal, ang minimum speed ay dapat <br> 100 Mbps <br> <b>para ituloy ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻</b>."
       },      
       {
         "id": "14",
-        "question": "Ano ang mangyayari kung hindi umabot sa minimum speed during 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻?",
-        "answer": "Hindi po itutuloy ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 at wala po kayong babayaran kung hindi umabot sa required na signal strength."
+        "q": "Ano ang mangyayari kung hindi umabot sa minimum speed during 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻?",
+        "a": "Hindi po itutuloy ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 at wala po kayong babayaran kung hindi umabot sa required na signal strength."
       },      
       {
         "id": "15",
-        "question": "Sino ang puwedeng mag-apply sa 𝐃𝐈𝐓𝐎 𝐔𝐧𝐥𝐢 𝟓𝐆?",
-        "answer": "Ang plan ay open para sa:<br>✔️ 18 years old pataas<br>✔️ May valid ID at 𝙥𝙧𝙤𝙤𝙛 𝙤𝙛 𝙗𝙞𝙡𝙡𝙞𝙣𝙜<br>✔️ Nasa serviceable area ni DITO 5G."
+        "q": "Sino ang puwedeng mag-apply sa 𝐃𝐈𝐓𝐎 𝐔𝐧𝐥𝐢 𝟓𝐆?",
+        "a": "Ang plan ay open para sa:<br>✔️ 18 years old pataas<br>✔️ May valid ID at 𝙥𝙧𝙤𝙤𝙛 𝙤𝙛 𝙗𝙞𝙡𝙡𝙞𝙣𝙜<br>✔️ Nasa serviceable area ni DITO 5G."
       },
       {
         "id": "16",
-        "question": "Puwede bang gamitin ang DITO 5G sa business?",
-        "answer": "Oo, pwedeng gamitin para sa home at small business setups tulad ng computer shops."
+        "q": "Puwede bang gamitin ang DITO 5G sa business?",
+        "a": "Oo, pwedeng gamitin para sa home at small business setups tulad ng computer shops."
       },
       {
         "id": "17",
-        "question": "Paano kung mahina ang signal sa area namin?",
-        "answer": "Magkakaroon ng actual signal testing bago ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻. Kung below 100 Mbps ang signal, hindi ipagpapatuloy ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 at walang kailangang bayaran."
+        "q": "Paano kung mahina ang signal sa area namin?",
+        "a": "Magkakaroon ng actual signal testing bago ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻. Kung below 100 Mbps ang signal, hindi ipagpapatuloy ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 at walang kailangang bayaran."
       },
       {
         "id": "18",
-        "question": "Paano i-set up ang DITO Home 5G modem?",
-        "answer": "I-unbox ang modem at ikonek ang power adapter.<br>I-plug sa outlet at hintaying mag-on ang 5G signal indicator.<br>Kumonekta gamit ang default WiFi username at password sa product label."
+        "q": "Paano i-set up ang DITO Home 5G modem?",
+        "a": "I-unbox ang modem at ikonek ang power adapter.<br>I-plug sa outlet at hintaying mag-on ang 5G signal indicator.<br>Kumonekta gamit ang default WiFi username at password sa product label."
       },
       {
         "id": "19",
-        "question": "Paano baguhin ang WiFi password?",
-        "answer": "I-access ang modem settings sa 192.168.8.1 gamit ang LAN o WiFi.<br>Log in gamit ang default credentials.<br>Baguhin ang SSID o password, i-save, at reconnect sa bagong network."
+        "q": "Paano baguhin ang WiFi password?",
+        "a": "I-access ang modem settings sa 192.168.8.1 gamit ang LAN o WiFi.<br>Log in gamit ang default credentials.<br>Baguhin ang SSID o password, i-save, at reconnect sa bagong network."
       },
       {
         "id": "20",
-        "question": "Ano ang promo offer ng 𝐃𝐈𝐓𝐎 𝐔𝐧𝐥𝐢 𝟓𝐆?",
-        "answer": "May 50% discount ka for the first 6 months—₱745/month lang!"
+        "q": "Ano ang promo offer ng 𝐃𝐈𝐓𝐎 𝐔𝐧𝐥𝐢 𝟓𝐆?",
+        "a": "May 50% discount ka for the first 6 months—₱745/month lang!"
       },
       {
         "id": "21",
-        "question": "Paano kung humina ang signal ng modem?",
-        "answer": "I-restart ang modem. I-off ito ng 5 minutes at i-on muli."
+        "q": "Paano kung humina ang signal ng modem?",
+        "a": "I-restart ang modem. I-off ito ng 5 minutes at i-on muli."
       },
       {
         "id": "22",
-        "question": "Paano makakuha ng technical support?",
-        "answer": "Gamitin ang DITO App para sa live chat support o tumawag sa Customer Service."
+        "q": "Paano makakuha ng technical support?",
+        "a": "Gamitin ang DITO App para sa live chat support o tumawag sa Customer Service."
       },
       {
         "id": "23",
-        "question": "Ano ang mangyayari kapag nag-pre-terminate ng contract?",
-        "answer": "Magbabayad ka ng Pre-Termination Fee:<br>PTF = Monthly Subscription Fee (MSF) x Natitirang Bilang ng Buwan."
+        "q": "Ano ang mangyayari kapag nag-pre-terminate ng contract?",
+        "a": "Magbabayad ka ng Pre-Termination Fee:<br>PTF = Monthly Subscription Fee (MSF) x Natitirang Bilang ng Buwan."
       },
       {
         "id": "24",
-        "question": "Ano ang policy kapag tapos na ang kontrata?",
-        "answer": "Pwede mong:<br>✔️ I-terminate nang walang penalty<br>✔️ Magpatuloy sa parehong quality at monthly rate."
+        "q": "Ano ang policy kapag tapos na ang kontrata?",
+        "a": "Pwede mong:<br>✔️ I-terminate nang walang penalty<br>✔️ Magpatuloy sa parehong quality at monthly rate."
       },      
       {
         "id": "25",
-        "question": "Pwede bang gamitin ang DITO Home 5G sa ibang bansa?",
-        "answer": "Hindi po. Ang DITO Home 5G modem ay designed para sa specific na mga location sa Pilipinas na may 5G signal. Hindi ito gumagana sa ibang bansa."
+        "q": "Pwede bang gamitin ang DITO Home 5G sa ibang bansa?",
+        "a": "Hindi po. Ang DITO Home 5G modem ay designed para sa specific na mga location sa Pilipinas na may 5G signal. Hindi ito gumagana sa ibang bansa."
       },
       {
         "id": "26",
-        "question": "Pwede bang ipa-transfer ang DITO 5G modem sa ibang address?",
-        "answer": "Oo, pero kailangan po munang i-check kung serviceable ang bagong address. <br> I-contact ang support para ma-schedule ang transfer."
+        "q": "Pwede bang ipa-transfer ang DITO 5G modem sa ibang address?",
+        "a": "Oo, pero kailangan po munang i-check kung serviceable ang bagong address. <br> I-contact ang support para ma-schedule ang transfer."
       },
       {
         "id": "27",
-        "question": "May warranty ba ang modem?",
-        "answer": "Oo, may <br> 1-year warranty <br> po ang WiFi 6 modem para sa factory defects. I-contact ang DITO Customer Service para sa claims."
+        "q": "May warranty ba ang modem?",
+        "a": "Oo, may <br> 1-year warranty <br> po ang WiFi 6 modem para sa factory defects. I-contact ang DITO Customer Service para sa claims."
       },
       {
         "id": "28",
-        "question": "Ano ang ibig sabihin ng 'Fixed Wireless Access (FWA)'?",
-        "answer": "Ang FWA ay isang type ng internet connection na gumagamit ng wireless signal <br> imbes na wired cables, kaya mas mabilis at portable ito."
+        "q": "Ano ang ibig sabihin ng 'Fixed Wireless Access (FWA)'?",
+        "a": "Ang FWA ay isang type ng internet connection na gumagamit ng wireless signal <br> imbes na wired cables, kaya mas mabilis at portable ito."
       },
       {
         "id": "29",
-        "question": "May hidden charges ba sa plan?",
-        "answer": "Walang hidden charges. <br> Ang kailangan lang bayaran ay ang initial cashout at ang monthly subscription fee."
+        "q": "May hidden charges ba sa plan?",
+        "a": "Walang hidden charges. <br> Ang kailangan lang bayaran ay ang initial cashout at ang monthly subscription fee."
       },      
       {
         "id": "30",
-        "question": "Pwede bang magbayad sa physical stores?",
-        "answer": "Oo, pwede kang magbayad sa <br> DITO Experience Stores <br> o mga authorized payment kiosks."
+        "q": "Pwede bang magbayad sa physical stores?",
+        "a": "Oo, pwede kang magbayad sa <br> DITO Experience Stores <br> o mga authorized payment kiosks."
       },
       {
         "id": "31",
-        "question": "Kailangan ba ng landline connection para gumana ang DITO Home 5G?",
-        "answer": "Hindi na po kailangan ng landline. <br> Wireless po ang connection gamit ang 5G modem."
+        "q": "Kailangan ba ng landline connection para gumana ang DITO Home 5G?",
+        "a": "Hindi na po kailangan ng landline. <br> Wireless po ang connection gamit ang 5G modem."
       },
       {
         "id": "32",
-        "question": "Available ba ang static IP address sa plan na ito?",
-        "answer": "Wala pong static IP ang DITO Home 5G Postpaid Plan. <br> Dynamic IP address po ang ginagamit."
+        "q": "Available ba ang static IP address sa plan na ito?",
+        "a": "Wala pong static IP ang DITO Home 5G Postpaid Plan. <br> Dynamic IP address po ang ginagamit."
       },
       {
         "id": "33",
-        "question": "Pwede bang gamitin sa gaming ang DITO Home 5G?",
-        "answer": "Oo, ang DITO Home 5G ay optimized para sa gaming at streaming, <br> pero depende pa rin ito sa signal strength sa area ninyo."
+        "q": "Pwede bang gamitin sa gaming ang DITO Home 5G?",
+        "a": "Oo, ang DITO Home 5G ay optimized para sa gaming at streaming, <br> pero depende pa rin ito sa signal strength sa area ninyo."
       },
       {
         "id": "34",
-        "question": "Ano ang ibig sabihin ng 'no external antenna'?",
-        "answer": "Ibig sabihin po, built-in ang antenna ng modem at hindi kailangan ng external hardware para sa signal reception."
+        "q": "Ano ang ibig sabihin ng 'no external antenna'?",
+        "a": "Ibig sabihin po, built-in ang antenna ng modem at hindi kailangan ng external hardware para sa signal reception."
       },
       {
         "id": "35",
-        "question": "Pwede bang gamitin ang modem bilang backup internet sa bahay?",
-        "answer": "Oo, pwede po. <br> Ang DITO Home 5G ay magandang option bilang backup internet lalo na kung may downtime ang primary connection ninyo."
+        "q": "Pwede bang gamitin ang modem bilang backup internet sa bahay?",
+        "a": "Oo, pwede po. <br> Ang DITO Home 5G ay magandang option bilang backup internet lalo na kung may downtime ang primary connection ninyo."
       },
       {
         "id": "36",
-        "question": "May available ba na business plan?",
-        "answer": "Sa ngayon, ang DITO Home 5G ay designed para sa <br> residential at small business use <br> tulad ng home offices at computer shops."
+        "q": "May available ba na business plan?",
+        "a": "Sa ngayon, ang DITO Home 5G ay designed para sa <br> residential at small business use <br> tulad ng home offices at computer shops."
       },
       {
         "id": "37",
-        "question": "Paano kung mag-expire ang promo period?",
-        "answer": "Pagkatapos ng promo period, babalik sa <br> ₱1,490/month <br> ang regular monthly fee."
+        "q": "Paano kung mag-expire ang promo period?",
+        "a": "Pagkatapos ng promo period, babalik sa <br> ₱1,490/month <br> ang regular monthly fee."
       },
       {
         "id": "38",
-        "question": "Pwede bang i-install sa condo units ang DITO Home 5G?",
-        "answer": "Oo, basta't may <br> 5G signal <br> at papayagan ng building management ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻."
+        "q": "Pwede bang i-install sa condo units ang DITO Home 5G?",
+        "a": "Oo, basta't may <br> 5G signal <br> at papayagan ng building management ang 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻."
       },
       {
         "id": "39",
-        "question": "Available ba ang DITO 5G sa rural areas?",
-        "answer": "Depende po sa coverage ng DITO 5G. <br> I-check muna kung serviceable ang location bago mag-apply."
+        "q": "Available ba ang DITO 5G sa rural areas?",
+        "a": "Depende po sa coverage ng DITO 5G. <br> I-check muna kung serviceable ang location bago mag-apply."
       },
       {
         "id": "40",
-        "question": "Pwede bang mag-apply kahit hindi ako residente ng Pilipinas?",
-        "answer": "Kailangan po ng <br> Philippine address <br> para makapag-apply, kaya hindi pwede kung wala dito sa Pilipinas."
+        "q": "Pwede bang mag-apply kahit hindi ako residente ng Pilipinas?",
+        "a": "Kailangan po ng <br> Philippine address <br> para makapag-apply, kaya hindi pwede kung wala dito sa Pilipinas."
       },
       {
         "id": "41",
-        "question": "Gaano ka-secure ang DITO Home 5G connection?",
-        "answer": "Ang DITO Home 5G modem ay gumagamit ng <br> WiFi 6 technology <br> na may advanced security features para protektahan ang inyong network."
+        "q": "Gaano ka-secure ang DITO Home 5G connection?",
+        "a": "Ang DITO Home 5G modem ay gumagamit ng <br> WiFi 6 technology <br> na may advanced security features para protektahan ang inyong network."
       },
       {
         "id": "42",
-        "question": "Ano ang gagawin kung nawawala ang WiFi signal?",
-        "answer": "Subukan pong i-restart ang modem at siguraduhing malapit ito sa devices ninyo. <br> Kung hindi pa rin gumana, i-contact ang technical support."
+        "q": "Ano ang gagawin kung nawawala ang WiFi signal?",
+        "a": "Subukan pong i-restart ang modem at siguraduhing malapit ito sa devices ninyo. <br> Kung hindi pa rin gumana, i-contact ang technical support."
       },  
       {
         "id": "43",
-        "question": "Paano magbayad ng monthly bill?",
-        "answer": "Puwede kang magbayad via:<br>📱 DITO App (GCash, Maya, Bank Transfer)<br>🏪 DITO Experience Stores<br>🏧 Pay & Go Payment Kiosks."
+        "q": "Paano magbayad ng monthly bill?",
+        "a": "Puwede kang magbayad via:<br>📱 DITO App (GCash, Maya, Bank Transfer)<br>🏪 DITO Experience Stores<br>🏧 Pay & Go Payment Kiosks."
       },      
       {
         "id": "44",
-        "question": "May rewards ba kapag nagbabayad ako ng bill?",
-        "answer": "Oo!<br>🎁 3% DITO Rewards Points kapag nagbayad gamit ang DITO App.<br>🎁 1% DITO Rewards Points kapag sa partner channels."
+        "q": "May rewards ba kapag nagbabayad ako ng bill?",
+        "a": "Oo!<br>🎁 3% DITO Rewards Points kapag nagbayad gamit ang DITO App.<br>🎁 1% DITO Rewards Points kapag sa partner channels."
       },
       {
         "id": "45",
-        "question": "Paano i-redeem ang DITO Rewards Points?",
-        "answer": "Pumunta sa “Rewards” section ng DITO App at piliin ang gusto mong data rewards o vouchers."
+        "q": "Paano i-redeem ang DITO Rewards Points?",
+        "a": "Pumunta sa “Rewards” section ng DITO App at piliin ang gusto mong data rewards o vouchers."
       }      
     ]
   }
