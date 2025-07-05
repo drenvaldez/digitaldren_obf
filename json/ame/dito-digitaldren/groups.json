@@ -1,4 +1,5 @@
-[
+{
+    "groups":  [
     {
         "id": "1_makaticity",
         "name": "Makati City District 2 Online Market",
@@ -46919,3 +46920,4 @@
         "count": "1.6K"
     }
 ]
+}
